@@ -13,7 +13,7 @@ d2tnx644ijgq6i.cloudfront.net
 i-stream.pl
 pipeaota.com
 time.samsungcloudsolution.com
-lcprd1.samsungcloudsolution.net
+
 d1jwpcr0q4pcq0.cloudfront.net
 www.samsungotn.net
 az43064.vo.msecnd.net
@@ -106,7 +106,7 @@ googleads.g.doubleclick.net
 www.samsungrm.net
 ads.samsungads.com
 notice.samsungcloudsolution.com
-lcprd1.samsungcloudsolution.net
+
 osb.samsungqbe.com
 d38cmiae9b0e22.cloudfront.net
 www.google.com
@@ -160,7 +160,7 @@ gld.samsungosp.com
 gpm.samsungqbe.com
 i-stream.pl
 infolink.pavv.co.kr
-lcprd1.samsungcloudsolution.net
+
 log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
@@ -206,7 +206,6 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 vdterms.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
-lcprd1.samsungcloudsolution.net
 time.samsungcloudsolution.com
 oempprd.samsungcloudsolution.com
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
@@ -269,3 +268,12 @@ u.scdn.co
 uiboot.netflix.com
 vimeo.com
 zpu.samsungelectronics.com
+kpu.samsungelectronics.com
+samsungelectronics.com
+log-ingestion-eu.samsungacr.com
+configprd.samsungcloudsolution.net
+prderrordumphsm.samsungcloudsolution.com
+empdownprd.samsungcloudsolution.com
+dpu.samsungelectronics.com
+ads.samsungads.com
+samsungads.com
