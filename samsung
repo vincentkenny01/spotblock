@@ -234,7 +234,9 @@ ad.samsungadhub.com
 gld.samsungosp.com
 openapi.samsung.com
 infolink.pavv.co.kr
+
 #vineets additions
+
 log-ingestion-eu.samsungacr.com
 ads.samsungads.com
 api-global.netflix.com
@@ -277,3 +279,8 @@ empdownprd.samsungcloudsolution.com
 dpu.samsungelectronics.com
 ads.samsungads.com
 samsungads.com
+secureclock2.playready.microsoft.com
+occ-2-1448-1168.1.nflxso.net
+nflxso.net
+netflix.com
+config.samsungads.com
