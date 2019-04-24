@@ -109,7 +109,7 @@ notice.samsungcloudsolution.com
 
 osb.samsungqbe.com
 d38cmiae9b0e22.cloudfront.net
-www.google.com
+# www.google.com
 go.microsoft.com
 multiscreen.samsung.com
 config.samsungads.com
@@ -123,8 +123,8 @@ log-config.samsungacr.com
 d3mjsomixevyw7.cloudfront.net
 youtubei.youtube.com
 www.youtube-nocookie.com
-www.youtube.com
-www.yahoo.com
+# www.youtube.com
+# www.yahoo.com
 www.google-analytics.com
 tv.scdn.co
 i.ytimg.com
@@ -282,7 +282,7 @@ samsungads.com
 secureclock2.playready.microsoft.com
 occ-2-1448-1168.1.nflxso.net
 nflxso.net
-netflix.com
+# netflix.com
 config.samsungads.com
 ads.samsungads.com
 log-ingestion-eu.samsungacr.com
