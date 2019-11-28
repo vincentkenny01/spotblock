@@ -18,6 +18,7 @@ v.fwmrm.netv.fwmrm.net
 #r*-*.googlevideo.com - this will completely block some of the videos so use with care. 
 manifest.googlevideo.com
 googlesyndication.com
+^r+.\.googlevideo.com$ ?
 r1---sn-4g57kn7d.googlevideo.com
 r1---sn-4g57knek.googlevideo.com
 r1---sn-4g57kndd.googlevideo.com
