@@ -17,3 +17,4 @@ v.fwmrm.netv.fwmrm.net
 #^r*.*googlevideo.com - this also breaks youtube so use carefully 
 #r*-*.googlevideo.com - this will completely block some of the videos so use with care. 
 manifest.googlevideo.com
+googlesyndication.com
