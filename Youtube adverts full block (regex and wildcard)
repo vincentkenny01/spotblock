@@ -14,4 +14,5 @@ r*-ajtez.googlevideo.com
 r*-googlevideo.com
 r*.*5hnekn**.googlevideo.com
 v.fwmrm.netv.fwmrm.net
+^r*.*googlevideo.com
 #r*-*.googlevideo.com - this will completely block some of the videos so use with care. 
