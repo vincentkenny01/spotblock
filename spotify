@@ -125,7 +125,6 @@ audio4-ak.spotify.com.edgesuite.net
  securepubads.g.doubleclick.net
  seen-on-screen.thewhizmarketing.com
  server-54-23-216-23.mrs5.r.cloudfront.net
- spclient.wg.spotify.com
  tpc.googlesyndication.com
  u.scdn.co
  upgrade.scdn.co
@@ -265,7 +264,15 @@ video-fa.scdn.co
 video-fa-b.cdn.spotify.com
 weblb-wg.gslb.spotify.com
 devicemetadataservice.trafficmanager.net
-
+# additional addreses 13022020
+audio-akp-bbr-spotify-com.akamaized.net
+exp.wg.spotify.com
+heads-ak-spotify-com.akamaized.net
+i.scdn.co
+scannables.scdn.co
+spritemaps.scdn.co
+video-akp-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
 
 
 
