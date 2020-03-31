@@ -173,7 +173,7 @@ audio-gc.spotify.com
 audio-gc.spotify.com#audio,linksto4.75.201.35.bc.googleusercontent.com
 audio-sp-lon.spotify.com
 audio-sp-sto.spotify.com
-audio-sp.spotify.com #audiocacheglobal - add wildcard
+audio-sp.spotify.com #audiocacheglobal - add 
 auditdesk-server.spotify.com#auditmanagement,linkstolon.weblb-wg.dual-gslb.spotify.com
 axp.spotify.com#audioexposite,linkstoweblb-wg.dual-gslb.spotify.com
 b.admob.com
@@ -336,8 +336,6 @@ facebook-callback.spotify.com#facebookauthentication,linkstoweblb-wg.dual-gslb.s
 felice.ash1.spotify.com#dataserver
 felice.ash.spotify.com#dataserver
 ff.video-ak.cdn.spotify.com  #ad wildcard
-ff.video-ak.cdn.spotify.com # ad wildcard
-ff.video-ak.cdn.spotify.com #videoads(shouldbeblocked) add wildcard
 files.spotify.com#?,linkstowww-001.lon.spotify.com
 fs.moatads.com
 funky.staging.intercom.io
