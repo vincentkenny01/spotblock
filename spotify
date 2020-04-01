@@ -689,7 +689,6 @@ smtp2.admob.com
 smtp.admob.com
 sp-bootstrap.global.ssl.fastly.net#spotifybootstrapframework(html,css,js)
 spclient-canary.wg.spotify.com#clientconnectionsbetagateway,linksto62.224.186.35.bc.googleusercontent.com
-spclient.wg.spotify.com#clientconnectionsgateway(blockingwilleliminateadintrobutbreaksapp)
 speech-recognition.spotify.com#speechforcarmode?,linkstoweblb-wg.dual-gslb.spotify.com
 spotify-desktop.com
 spotify.com#spotifydomain(dnsiswithgoogle)
@@ -836,14 +835,12 @@ www.googleadservices.com
 www.googletagservices.
 www.googletagservices.com
 www.intercom.io
-www.m.spotify.com#mobilesite,linkstowww.spotify.com
 www.mixpanel.com
 www.moatads.com
 www.mycomscore.net
 www.omaze.com
 www.scdn.co#homepageimagesetc,linkstobeta.spotify.map.fastly.net
-www.spotify-desktop.com#website,linkstowww.spotify.com
-www.spotify.com#website,linkstoweblb-wg.dual-gslb.spotify.com
+#website,linkstoweblb-wg.dual-gslb.spotify.com
 www.spotx.tv
 www.spotx.tv$spotifyadvertisementplatformakaskipit.com,linkstospotx.tv
 www.ui.cp.tune.com
