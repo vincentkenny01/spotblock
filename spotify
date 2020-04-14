@@ -496,7 +496,7 @@ lotta.ash.spotify.com#dataserver
 lysandra.ash1.spotify.com#dataserver
 lysandra.ash.spotify.com#dataserver
 m.admob.com
-m.spotify.com#mobilesite,linkstoweblb-wg.dual-gslb.spotify.com
+lb-wg.dual-gslb.spotify.com
 ma.tune.com
 mail2.comscore.com
 mail.spotify.com#googlemail(ghs.google.com)
@@ -690,8 +690,6 @@ smtp.admob.com
 sp-bootstrap.global.ssl.fastly.net#spotifybootstrapframework(html,css,js)
 spclient-canary.wg.spotify.com#clientconnectionsbetagateway,linksto62.224.186.35.bc.googleusercontent.com
 speech-recognition.spotify.com#speechforcarmode?,linkstoweblb-wg.dual-gslb.spotify.com
-spotify-desktop.com
-spotify.com#spotifydomain(dnsiswithgoogle)
 spotify.map.fastly.net#ipgeodependent
 spotxchange.com
 spotxchange.com#spotifyadvertisementplatformakaskipit.com,linkstohttps://www.spotx.tv/
