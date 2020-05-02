@@ -1,4 +1,3 @@
-#vineets additions
 *sn-cu-aigs7.googlevideo.com
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 Coordinator-TA30-PROD-1091987395.eu-west-1.elb.amazonaws.com
@@ -59,10 +58,7 @@ log-config.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log-ingestion-eu.samsungacr.com 
 log.internetat.tv
-many other *.netflix.com
-multiscreen.samsung.com
 musicid.samsungcloudsolution.com
-netflix.com
 nflxso.net
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
@@ -123,14 +119,11 @@ vdterms.samsungcloudsolution.com
 vimeo.com
 wwp.greenwichmeantime.com
 www.google-analytics.com
-www.google.com
 www.googleapis.com
 www.samsungotn.net
 www.samsungrm.net
 www.worldtime.com
-www.yahoo.com
 www.youtube-nocookie.com
-www.youtube.com
 xpu.samsungelectronics.com
 youtubei.youtube.com
 ypu.samsungelectronics.com
