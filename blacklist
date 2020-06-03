@@ -57,8 +57,8 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
-https://github.com/vincentkenny01/spotblock/blob/master/ondemand
-https://github.com/vincentkenny01/spotblock/blob/master/samsung
-https://github.com/vincentkenny01/spotblock/blob/master/spotify
+https://raw.githubusercontent.com/vincentkenny01/spotblock/master/ondemand
+https://raw.githubusercontent.com/vincentkenny01/spotblock/master/samsung
+https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify
 https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
 https://raw.githubusercontent.com/krombopulosM/TikTok-blocklist/master/tiktok%20blocklist.txt
