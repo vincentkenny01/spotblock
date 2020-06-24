@@ -11,7 +11,7 @@ ff.video-ak.cdn.spotify.com
 #^e****.g.akamaiedge.net 
 ^r+.\.googlevideo.com$ ?
 ads-pres.channel4.com
-ak-spotify-com.akamaized.net
+#ak-spotify-com.akamaized.net
 #akamai.net
 #akamaiedge.net
 #akamaized.net
