@@ -128,3 +128,15 @@ az43064.vo.msecnd.net
 ^r[0-99]*-*glenes.googlevideo.com
 ^r[0-99]*-*aig*.googlevideo.com
 ^r[0-99]*.googlevideo.com
+^https?://+([^:/]+\.)?doubleclick\.net
+^https?://+([^:/]+\.)?youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?youtube\.com/pagead/
+^https?://+([^:/]+\.)?googleads\.g\.doubleclick\.net
+^https?://+([^:/]+\.)?m\.youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?pagead2\.googlesyndication\.com
+^https?://+([^:/]+\.)?static\.doubleclick\.net
+^https?://+([^:/]+\.)?www\.google\.com/pagead/
+^https?://+([^:/]+\.)?www\.youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?youtube\.com/get_video_info\?
+^https?://+([^:/]+\.)?youtube\.com/api/stats/ads
+^https?://+([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
