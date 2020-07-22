@@ -123,3 +123,6 @@ webstats.channel4.com
 suggestqueries.google.com	
 graph.facebook.com/network_ads	
 az43064.vo.msecnd.net
+^r[0-99]*-*aigd.googlevideo.com
+^r[0-99]*-*a*.googlevideo.com
+^r[0-99]*-*glenes.googlevideo.com
