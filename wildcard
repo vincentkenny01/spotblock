@@ -152,3 +152,4 @@ az43064.vo.msecnd.net
 +([^:/]+\.)?youtube\.com/get_video_info\?
 +([^:/]+\.)?youtube\.com/api/stats/ads
 +([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
+r[0-9]+.sn-.\.googlevideo\.com
