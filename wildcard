@@ -140,3 +140,15 @@ az43064.vo.msecnd.net
 ^https?://+([^:/]+\.)?youtube\.com/get_video_info\?
 ^https?://+([^:/]+\.)?youtube\.com/api/stats/ads
 ^https?://+([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
++([^:/]+\.)?doubleclick\.net
++([^:/]+\.)?youtube\.com/get_midroll_
++([^:/]+\.)?youtube\.com/pagead/
++([^:/]+\.)?googleads\.g\.doubleclick\.net
++([^:/]+\.)?m\.youtube\.com/get_midroll_
++([^:/]+\.)?pagead2\.googlesyndication\.com
++([^:/]+\.)?static\.doubleclick\.net
++([^:/]+\.)?www\.google\.com/pagead/
++([^:/]+\.)?www\.youtube\.com/get_midroll_
++([^:/]+\.)?youtube\.com/get_video_info\?
++([^:/]+\.)?youtube\.com/api/stats/ads
++([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
