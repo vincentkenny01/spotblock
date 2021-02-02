@@ -9,7 +9,7 @@
 audio-sp.spotify.com
 ff.video-ak.cdn.spotify.com
 #^e****.g.akamaiedge.net 
-^r+.\.googlevideo.com$ ?
+^r+.\.googlevideo.com$?
 ads-pres.channel4.com
 #ak-spotify-com.akamaized.net
 #akamai.net
