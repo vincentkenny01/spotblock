@@ -155,3 +155,6 @@ az43064.vo.msecnd.net
 r[0-9]+.sn-.\.googlevideo\.com
 ^r+.\.googlevideo.com$ ?
 googleleads.g.doubleclick.net
+r*.*5hnekn*.googlevideo.com
+r*.*-5*.googlevideo.com
+#^e*.g.akamaiedge.net
