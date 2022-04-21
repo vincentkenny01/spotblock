@@ -33,24 +33,6 @@ m.tkassets.com
 manifest.googlevideo.com
 ssl-c4dotcom.2cnt.net
 toots-a.akamaihd.net
-##roku test domains
-ads.roku.com	
-amarillo.logs.roku.com	
-amoeba-plus.web.roku.com	
-customer-feedbacks.web.roku.com	
-digdug-g2.logs.roku.com	
-digdug.logs.roku.com	
-display.ravm.tv	
-i.ads.roku.com	
-p.ads.roku.com	
-raps-perf.ravm.tv	
-raps.ravm.tv	
-ravm.tv	
-rxr.ravm.tv	
-samples.voice.cti.roku.com	
-traces.sr.roku.com	
-track.sr.roku.com	
-wwwimg.roku.com
 trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
 trk-euwest.tidaltv.com
 webstats.channel4.com
@@ -71,3 +53,21 @@ prod.mobile.roku.com
 wwwimg.roku.com
 analytics.kidoodle.tv
 creativereview-wurl.kidoodle.tv
+###############roku test domains
+ads.roku.com	
+amarillo.logs.roku.com	
+amoeba-plus.web.roku.com	
+customer-feedbacks.web.roku.com	
+digdug-g2.logs.roku.com	
+digdug.logs.roku.com	
+display.ravm.tv	
+i.ads.roku.com	
+p.ads.roku.com	
+raps-perf.ravm.tv	
+raps.ravm.tv	
+ravm.tv	
+rxr.ravm.tv	
+samples.voice.cti.roku.com	
+traces.sr.roku.com	
+track.sr.roku.com	
+wwwimg.roku.com
