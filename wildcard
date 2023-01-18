@@ -125,4 +125,4 @@ r[0-9]+.sn-.\.googlevideo\.com
 [a-z0-9]+[.]*(ads|cloudservices|logs).roku.co
 (^|\.)ads\.roku\.com$
 (^|\.)logs\.roku\.com$
-(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)$
+#(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)$
