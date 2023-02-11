@@ -126,3 +126,6 @@ r[0-9]+.sn-.\.googlevideo\.com
 (^|\.)ads\.roku\.com$
 (^|\.)logs\.roku\.com$
 #(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)$
+star-mini.c10r.facebook.com
+*.map.fastly-insights.com
+*.map.fastly.net
