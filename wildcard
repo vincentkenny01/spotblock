@@ -128,4 +128,4 @@ r[0-9]+.sn-.\.googlevideo\.com
 #(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)$
 star-mini.c10r.facebook.com
 *.map.fastly-insights.com
-
+*.doppiocdn.com
