@@ -36,8 +36,7 @@ toots-a.akamaihd.net
 trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
 trk-euwest.tidaltv.com
 webstats.channel4.com
-suggestqueries.google.com 
-graph.facebook.com/network_ads 
+suggestqueries.google.com
 googleleads.g.doubleclick.net
 track.sr.roku.com
 p.ads.roku.com
@@ -53,7 +52,6 @@ prod.mobile.roku.com
 wwwimg.roku.com
 analytics.kidoodle.tv
 creativereview-wurl.kidoodle.tv
-###############roku test domains
 ads.roku.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
