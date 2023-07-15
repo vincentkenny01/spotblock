@@ -197,3 +197,6 @@ s0.2mdn.net
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+(\.|^)ft\.com$
+(\.|^)share\.reedsy\.com$
+(\.|^)eu-west-1\.awstrack\.me$
