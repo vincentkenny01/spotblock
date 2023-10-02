@@ -1,22 +1,22 @@
-2a7e9.v.fwmrm.net
-2356e.v.fwmrm.net
-ads-pres.channel4.com
-akamai.net
-b45f12f3d1d8ff61fde258f94943ae3b02a43d94.cws.conviva.com
-c4.eme.lp.aws.redbeemedia.com
-c4ads.2cnt.net
-c5ads.ott.skymedia.co.uk
-cdn.http.anno.channel4.com
-cdn.ss.anno.channel4.com
-cws-iad1.conviva.com
-dmp-ingest-itv.tidaltv.com
-e7556.g.akamaiedge.net
-f.tkassets.com
-ingest-euir-external.tidaltv.com
-live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
-m.tkassets.com
-ssl-c4dotcom.2cnt.net
-trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
-trk-euwest.tidaltv.com
-v.fwmrm.net
-webstats.channel4.com
+0.0.0.0 2a7e9.v.fwmrm.net
+0.0.0.0 2356e.v.fwmrm.net
+0.0.0.0 ads-pres.channel4.com
+0.0.0.0 akamai.net
+0.0.0.0 b45f12f3d1d8ff61fde258f94943ae3b02a43d94.cws.conviva.com
+0.0.0.0 c4.eme.lp.aws.redbeemedia.com
+0.0.0.0 c4ads.2cnt.net
+0.0.0.0 c5ads.ott.skymedia.co.uk
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 cdn.ss.anno.channel4.com
+0.0.0.0 cws-iad1.conviva.com
+0.0.0.0 dmp-ingest-itv.tidaltv.com
+0.0.0.0 e7556.g.akamaiedge.net
+0.0.0.0 f.tkassets.com
+0.0.0.0 ingest-euir-external.tidaltv.com
+0.0.0.0 live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
+0.0.0.0 m.tkassets.com
+0.0.0.0 ssl-c4dotcom.2cnt.net
+0.0.0.0 trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
+0.0.0.0 trk-euwest.tidaltv.com
+0.0.0.0 v.fwmrm.net
+0.0.0.0 webstats.channel4.com
