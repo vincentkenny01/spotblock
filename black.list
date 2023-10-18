@@ -193,3 +193,6 @@
 0.0.0.0 db._dns-sd._udp.cust.communityfibre.co.uk
 0.0.0.0 lb._dns-sd._udp.communityfibre.co.uk
 0.0.0.0 linksysmx4200.cust.communityfibre.co.uk
+0.0.0.0 a297.dscc.akamai.net
+0.0.0.0 merch-img.scdn.co
+0.0.0.0 bloodhound.spotify.com
