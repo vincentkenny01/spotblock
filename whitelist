@@ -19,6 +19,7 @@
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 seektables.scdn.co
 0.0.0.0 canvaz.scdn.co
+0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 
 # Samsung domains
 0.0.0.0 acr0.samsungcloudsolution.com
