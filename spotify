@@ -291,7 +291,7 @@
 0.0.0.0 download.spotify.com
 0.0.0.0 download.spotify.map.fastly.net
 0.0.0.0 ds.serving-sys.com
-0.0.0.0 ds.serving-sys.gads.pubmatic.c
+0.0.0.0 ds.serving-sys.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 e1174.ksd.akamaiedge.net
 0.0.0.0 e7876.dscg.akamaiedge.net
@@ -487,7 +487,6 @@
 0.0.0.0 mail.spotify.com
 0.0.0.0 market.spotify.com
 0.0.0.0 marketer.comscore.com
-0.0.0.0 media-match
 0.0.0.0 media-match.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 media.admob.com
@@ -646,7 +645,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure.insightexpressai.com
-0.0.0.0 securepubads.g.doubleclick.n
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seektables.scdn.co
 0.0.0.0 seen-on-screen.thewhizmarketing.com
