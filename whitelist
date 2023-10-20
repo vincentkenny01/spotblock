@@ -26,6 +26,7 @@
 0.0.0.0 cdn.http.anno.channel4.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 cdn.samsungcloudsolution.net
+0.0.0.0 cdn.branch.io
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 client-s.gateway.messenger.live.com
 0.0.0.0 clients2.google.com
@@ -73,6 +74,7 @@
 0.0.0.0 media-lhr8-1.cdn.whatsapp.net
 0.0.0.0 msftncsi.com
 0.0.0.0 multiscreen.samsung.com
+0.0.0.0 newjams-images.scdn.co
 0.0.0.0 notice.samsungcloudsolution.com
 0.0.0.0 o.scdn.co
 0.0.0.0 office365.com
