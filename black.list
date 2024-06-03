@@ -209,3 +209,6 @@
 0.0.0.0 yt3.googleusercontent.com
 0.0.0.0 mask.apple-dns.net
 0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask.apple-dns.net
+0.0.0.0 gateway.fe.apple-dns.net
+0.0.0.0 mask-api.fe2.apple-dns.net
