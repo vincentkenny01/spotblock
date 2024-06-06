@@ -215,3 +215,5 @@
 0.0.0.0 canary.mask.apple-dns.net
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-api.fe.apple-dns.net
+0.0.0.0 adserving.optoutadvertising.com
+0.0.0.0 cdn.optoutadvertising.com
