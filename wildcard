@@ -206,3 +206,5 @@
 0.0.0.0 [a-z.].googleusercontent.com
 0.0.0.0 (\.|^)googleusercontent\.com$
 0.0.0.0 (\.|^)ajte\.googlevideo\.com$
+0.0.0.0 *.akamaiedge.net
+0.0.0.0 bloodhound-*-helios.spotify.com
