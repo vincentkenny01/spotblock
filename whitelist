@@ -141,3 +141,4 @@
 0.0.0.0 api.telegram.org
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 *.giphy.com
+0.0.0.0 dogvgb9ujhybx.cloudfront.net
