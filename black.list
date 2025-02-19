@@ -237,3 +237,5 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadsdk.apple.com
