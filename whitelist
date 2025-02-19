@@ -165,3 +165,4 @@
 0.0.0.0 i.scdn.co
 0.0.0.0 (\.|^)giphy\.com$
 0.0.0.0 ocsp.digicert.com
+0.0.0.0 login.microsoftonline.com
