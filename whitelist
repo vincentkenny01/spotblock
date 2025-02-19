@@ -143,6 +143,7 @@
 0.0.0.0 *.giphy.com
 0.0.0.0 dogvgb9ujhybx.cloudfront.net
 0.0.0.0 tvpndynamiclogopeu.samsungcloud.tv
+##additional spotify domains testing 
 0.0.0.0 seed-mix-image.spotifycdn.com
 0.0.0.0 pickasso.spotifycdn.com
 0.0.0.0 xpui.app.spotify.com.net
