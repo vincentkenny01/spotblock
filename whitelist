@@ -175,3 +175,5 @@
 0.0.0.0 fuk01.ps5.update.playstation.net
 0.0.0.0 pool.ntp.org
 0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 www.gstatic.com
+0.0,0,0 www.googleapis.com
