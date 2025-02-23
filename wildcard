@@ -118,3 +118,16 @@
 ## 0.0.0.0 (\.|^)googleusercontent\.com$
 0.0.0.0 bloodhound-*-helios.spotify.com
 0.0.0.0 .+comscoreresearch.+
+0.0.0.0(\.|^)doubleclick\.net$
+0.0.0.0(\.|^)googleadservices\.com$
+0.0.0.0(\.|^)googleads\.g\.doubleclick\.net$
+0.0.0.0(\.|^)youtube\.com\/get_midroll_
+0.0.0.0(\.|^)youtube\.com\/pagead\/
+0.0.0.0(\.|^)youtube\.com\/api\/stats\/ads
+0.0.0.0(\.|^)youtube\.com\/annotations_invideo
+0.0.0.0(\.|^)youtube\.com\/get_video_info
+0.0.0.0(\.|^)static\.doubleclick\.net$
+0.0.0.0(\.|^)pagead2\.googlesyndication\.com$
+0.0.0.0(\.|^)s0\.2mdn\.net$
+0.0.0.0(\.|^)ads\.youtube\.com$
+
