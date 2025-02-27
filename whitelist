@@ -183,3 +183,6 @@
 0.0.0.0 newjams-images.scdn.co
 0.0.0.0 audio4-fa.scdn.co
 0.0.0.0 audio4-ak.spotifycdn.com
+0.0.0.0 audio-ak.spotifycdn.com
+0.0.0.0 region-eng-scdn.cdn-gslb.spotify.com
+0.0.0.0 edge-web.dual-gslb.spotify.com
