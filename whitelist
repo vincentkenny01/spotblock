@@ -1,188 +1,198 @@
-0.0.0.0 a1.api.bbc.co.uk
-0.0.0.0 acr0.samsungcloudsolution.com
-0.0.0.0 ae01.alicdn.com
-0.0.0.0 am3pap001.storage.live.com
-0.0.0.0 android.clients.google.com
-0.0.0.0 api-partner.spotify.com
-0.0.0.0 api-tv.spotify.com
-0.0.0.0 api.moengage.com
-0.0.0.0 api.onedrive.com
-0.0.0.0 api.spotify.com
-0.0.0.0 api2.branch.io
-0.0.0.0 apiv2.moengage.com
-0.0.0.0 app-measurement.com
-0.0.0.0 appinfo.dl.playstation.net
-0.0.0.0 apple.com
-0.0.0.0 apps.skype.com
-0.0.0.0 apresolve.spotify.com
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 audio-fa.scdn.co
-0.0.0.0 audio4-fa.scdn.co
-0.0.0.0 bbc.com
-0.0.0.0 bit.ly
-0.0.0.0 c.s-microsoft.com
-0.0.0.0 canvaz.scdn.co
-0.0.0.0 cast.scdn.co
-0.0.0.0 cdn.http.anno.channel4.com
-0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0 cdn.samsungcloudsolution.net
-0.0.0.0 cdn.branch.io
-0.0.0.0 cfimage.moengage.com
-0.0.0.0 client-s.gateway.messenger.live.com
-0.0.0.0 clients2.google.com
-0.0.0.0 clients4.google.com
-0.0.0.0 cloudservices.roku.com
-0.0.0.0 cnn.com
-0.0.0.0 col.eum-appdynamics.com
-0.0.0.0 config.inmobi.com
-0.0.0.0 config.samqaicongen.com
-0.0.0.0 cpt.itv.com
-0.0.0.0 cs.voot.com
-0.0.0.0 cws.conviva.com
-0.0.0.0 displaycatalog.mp.microsoft.com
-0.0.0.0 dl.conviva.com
-0.0.0.0 dl.delivery.mp.microsoft.com
-0.0.0.0 dpm.demdex.net
-0.0.0.0 envelope2.np.dl.playstation.net
-0.0.0.0 ft.com
-0.0.0.0 fuk01.ps5.update.playstation.net
-0.0.0.0 g.live.com
-0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
-0.0.0.0 gew-dealer-ssl.spotify.com
-0.0.0.0 gew-dealer.spotify.com
-0.0.0.0 gew1-spclient.spotify.com
-0.0.0.0 go.microsoft.com
-0.0.0.0 googleapis.l.google.com
-0.0.0.0 gpm.samsungqbe.com
-0.0.0.0 gs-sec.ww.np.dl.playstation.net
-0.0.0.0 hotmail.com
-0.0.0.0 hostfiles.frogeye.fr
-0.0.0.0 i.instagram.com
-0.0.0.0 i.s-microsoft.com
-0.0.0.0 i.scdn.co
-0.0.0.0 i.ytimg.com
-0.0.0.0 images.scdn.co
-0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
-0.0.0.0 labs.spotify.com
-0.0.0.0 lcprd1.samsungcloudsolution.net
-0.0.0.0 lebara-mobile.pxf.io
-0.0.0.0 login.aliexpress.com
-0.0.0.0 login.live.com
-0.0.0.0 login.microsoftonline.com
-0.0.0.0 login.mso.msidentity.com
-0.0.0.0 m.hotmail.com
-0.0.0.0 media-lhr8-1.cdn.whatsapp.net
-0.0.0.0 msftncsi.com
-0.0.0.0 multiscreen.samsung.com
-0.0.0.0 newjams-images.scdn.co
-0.0.0.0 notice.samsungcloudsolution.com
-0.0.0.0 o.scdn.co
-0.0.0.0 office365.com
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 oneclient.sfx.ms
-0.0.0.0 open.scdn.co
-0.0.0.0 open.spotify.com
-0.0.0.0 osb-apps.samsungqbe.com
-0.0.0.0 osb-eusvc.samsungqbe.com
-0.0.0.0 osb.samsungqbe.com
-0.0.0.0 otnprd10.samsungcloudsolution.net
-0.0.0.0 otnprd11.samsungcloudsolution.net
-0.0.0.0 otnprd8.samsungcloudsolution.net
-0.0.0.0 otnprd9.samsungcloudsolution.net
-0.0.0.0 outlook.com
-0.0.0.0 outlook.live.com
-0.0.0.0 outlook.office365.com
-0.0.0.0 p.scdn.co
-0.0.0.0 play.spotify.com
-0.0.0.0 pool.ntp.org
-0.0.0.0 pricelist.skype.com
-0.0.0.0 products.office.com
-0.0.0.0 qgve.dl.playstation.net
-0.0.0.0 r.bbci.co.uk
-0.0.0.0 s.gateway.messenger.live.com
-0.0.0.0 sa.bbc.co.uk
-0.0.0.0 sa.symcb.com
-0.0.0.0 samsungcloudsolution.com
-0.0.0.0 samsungcloudsolution.net
-0.0.0.0 samsungotn.net
-0.0.0.0 sas.samsungcloudsolution.com
-0.0.0.0 seektables.scdn.co
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 smtp.outlook.office365.com
-0.0.0.0 soundcloud.com
-0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 sso.internetat.tv
-0.0.0.0 sso.three.co.uk
-0.0.0.0 static.whatsapp.net
-0.0.0.0 t.co
-0.0.0.0 t.scdn.co
-0.0.0.0 three.co.uk
-0.0.0.0 three.tt.omtrdc.net
-0.0.0.0 time.samsungcloudsolution.com
-0.0.0.0 twitter.com
-0.0.0.0 ui.skype.com
-0.0.0.0 upu.samsungelectronics.com
-0.0.0.0 vms.boldchat.com
-0.0.0.0 vmss.boldchat.com
-0.0.0.0 vootlivelinear.akamaized.net
-0.0.0.0 vootvideo.akamaized.net
-0.0.0.0 www.4chan.org
-0.0.0.0 www.googleapis.com
-0.0.0.0 www.johnlewis.com
-0.0.0.0 www.three.co.uk
-0.0.0.0 www.twitter.com
-0.0.0.0 xpu.samsungelectronics.com
-0.0.0.0 z5ams.akamaized.net
-0.0.0.0 zee5vod.akamaized.net
-0.0.0.0 zee5vodnd.akamaized.net
-0.0.0.0 api.channel4.com
-0.0.0.0 ak-jos-c4assets-com.akamaized.net
-0.0.0.0 cdn.http.anno.channel4.com
-0.0.0.0 api.telegram.org
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 *.giphy.com
-0.0.0.0 dogvgb9ujhybx.cloudfront.net
-0.0.0.0 tvpndynamiclogopeu.samsungcloud.tv
-##additional spotify domains testing 
-0.0.0.0 seed-mix-image.spotifycdn.com
-0.0.0.0 pickasso.spotifycdn.com
-0.0.0.0 xpui.app.spotify.com.net
-0.0.0.0 xpui.app.spotify.com
-0.0.0.0 gew1-dealer-ssl.spotify.com
-0.0.0.0 gew1-dealer.g2.spotify.com
-0.0.0.0 gew1-spclient.spotify.com
-0.0.0.0 api-partner.spotify.com
-0.0.0.0 exp.wg.spotify.com
-0.0.0.0 ap-gew1.spotify.com
-0.0.0.0 open.spotifycdn.com
-0.0.0.0 pixel-static.spotify.com
-0.0.0.0 pixel.spotify.com
-0.0.0.0 login5.spotify.com
-0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 apresolve.spotify.com
-0.0.0.0 api.spotify.com
-0.0.0.0 www.spotify.com
-0.0.0.0 i.scdn.co
-0.0.0.0 (\.|^)giphy\.com$
-0.0.0.0 ocsp.digicert.com
-0.0.0.0 login.microsoftonline.com
-0.0.0.0 ccp-lh.googleusercontent.com
-0.0.0.0 envelope2.np.dl.playstation.net
-0.0.0.0 fuk01.ps5.update.playstation.net
-0.0.0.0 cast.scdn.co
-0.0.0.0 login.mso.msidentity.com
-0.0.0.0 envelope2.np.dl.playstation.net
-0.0.0.0 fuk01.ps5.update.playstation.net
-0.0.0.0 pool.ntp.org
-0.0.0.0 time.samsungcloudsolution.com
-0.0.0.0 www.gstatic.com
-0.0,0,0 www.googleapis.com
-0.0.0.0 mail-attachment.googleusercontent.com
-0.0.0.0 xpui.app.spotify.com
-0.0.0.0 xpui.app.spotify.com.net
-0.0.0.0 newjams-images.scdn.co
-0.0.0.0 audio4-fa.scdn.co
-0.0.0.0 audio4-ak.spotifycdn.com
-0.0.0.0 audio-ak.spotifycdn.com
-0.0.0.0 region-eng-scdn.cdn-gslb.spotify.com
-0.0.0.0 edge-web.dual-gslb.spotify.com
+a1.api.bbc.co.uk
+acr0.samsungcloudsolution.com
+ae01.alicdn.com
+am3pap001.storage.live.com
+android.clients.google.com
+api-partner.spotify.com
+api-tv.spotify.com
+api.moengage.com
+api.onedrive.com
+api.spotify.com
+api2.branch.io
+apiv2.moengage.com
+app-measurement.com
+appinfo.dl.playstation.net
+apple.com
+apps.skype.com
+apresolve.spotify.com
+assets.adobedtm.com
+audio-fa.scdn.co
+audio4-fa.scdn.co
+bbc.com
+bit.ly
+c.s-microsoft.com
+canvaz.scdn.co
+cast.scdn.co
+cdn.http.anno.channel4.com
+cdn.samsungcloudsolution.com
+cdn.samsungcloudsolution.net
+cdn.branch.io
+cfimage.moengage.com
+client-s.gateway.messenger.live.com
+clients2.google.com
+clients4.google.com
+cloudservices.roku.com
+cnn.com
+col.eum-appdynamics.com
+config.inmobi.com
+config.samqaicongen.com
+cpt.itv.com
+cs.voot.com
+cws.conviva.com
+displaycatalog.mp.microsoft.com
+dl.conviva.com
+dl.delivery.mp.microsoft.com
+dpm.demdex.net
+envelope2.np.dl.playstation.net
+ft.com
+fuk01.ps5.update.playstation.net
+g.live.com
+geo-prod.do.dsp.mp.microsoft.com
+gew-dealer-ssl.spotify.com
+gew-dealer.spotify.com
+gew1-spclient.spotify.com
+go.microsoft.com
+googleapis.l.google.com
+gpm.samsungqbe.com
+gs-sec.ww.np.dl.playstation.net
+hotmail.com
+hostfiles.frogeye.fr
+i.instagram.com
+i.s-microsoft.com
+i.scdn.co
+i.ytimg.com
+images.scdn.co
+ipv4.scdnco.spotify.map.fastly.net
+labs.spotify.com
+lcprd1.samsungcloudsolution.net
+lebara-mobile.pxf.io
+login.aliexpress.com
+login.live.com
+login.microsoftonline.com
+login.mso.msidentity.com
+m.hotmail.com
+media-lhr8-1.cdn.whatsapp.net
+msftncsi.com
+multiscreen.samsung.com
+newjams-images.scdn.co
+notice.samsungcloudsolution.com
+o.scdn.co
+office365.com
+officeclient.microsoft.com
+oneclient.sfx.ms
+open.scdn.co
+open.spotify.com
+osb-apps.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb.samsungqbe.com
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+outlook.com
+outlook.live.com
+outlook.office365.com
+p.scdn.co
+play.spotify.com
+pool.ntp.org
+pricelist.skype.com
+products.office.com
+qgve.dl.playstation.net
+r.bbci.co.uk
+s.gateway.messenger.live.com
+sa.bbc.co.uk
+sa.symcb.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungotn.net
+sas.samsungcloudsolution.com
+seektables.scdn.co
+settings.crashlytics.com
+smtp.outlook.office365.com
+soundcloud.com
+spclient.wg.spotify.com
+sso.internetat.tv
+sso.three.co.uk
+static.whatsapp.net
+t.co
+t.scdn.co
+three.co.uk
+three.tt.omtrdc.net
+time.samsungcloudsolution.com
+twitter.com
+ui.skype.com
+upu.samsungelectronics.com
+vms.boldchat.com
+vmss.boldchat.com
+vootlivelinear.akamaized.net
+vootvideo.akamaized.net
+www.4chan.org
+www.googleapis.com
+www.johnlewis.com
+www.three.co.uk
+www.twitter.com
+xpu.samsungelectronics.com
+z5ams.akamaized.net
+zee5vod.akamaized.net
+zee5vodnd.akamaized.net
+api.channel4.com
+ak-jos-c4assets-com.akamaized.net
+cdn.http.anno.channel4.com
+api.telegram.org
+cdn.optimizely.com
+*.giphy.com
+dogvgb9ujhybx.cloudfront.net
+tvpndynamiclogopeu.samsungcloud.tv
+onal spotify domains testing 
+seed-mix-image.spotifycdn.com
+pickasso.spotifycdn.com
+xpui.app.spotify.com.net
+xpui.app.spotify.com
+gew1-dealer-ssl.spotify.com
+gew1-dealer.g2.spotify.com
+gew1-spclient.spotify.com
+api-partner.spotify.com
+exp.wg.spotify.com
+ap-gew1.spotify.com
+open.spotifycdn.com
+pixel-static.spotify.com
+pixel.spotify.com
+login5.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+api.spotify.com
+www.spotify.com
+i.scdn.co
+(\.|^)giphy\.com$
+ocsp.digicert.com
+login.microsoftonline.com
+ccp-lh.googleusercontent.com
+envelope2.np.dl.playstation.net
+fuk01.ps5.update.playstation.net
+cast.scdn.co
+login.mso.msidentity.com
+envelope2.np.dl.playstation.net
+fuk01.ps5.update.playstation.net
+pool.ntp.org
+time.samsungcloudsolution.com
+www.gstatic.com
+www.googleapis.com
+mail-attachment.googleusercontent.com
+xpui.app.spotify.com
+xpui.app.spotify.com.net
+newjams-images.scdn.co
+audio4-fa.scdn.co
+audio4-ak.spotifycdn.com
+audio-ak.spotifycdn.com
+region-eng-scdn.cdn-gslb.spotify.com
+edge-web.dual-gslb.spotify.com
+api.branch.io
+pl.scdn.co
+mosaic.scdn.co
+lineup-images.scdn.co
+daily-mix.scdn.co
+o22381.ingest.sentry.io
+misc.scdn.co
+mixed-media-images.spotifycdn.com
+daylist.spotifycdn.com
+cdn.branch.io
