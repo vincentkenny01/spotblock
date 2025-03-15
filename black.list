@@ -1,231 +1,231 @@
-0.0.0.0 a.servedbyivo.com
-0.0.0.0 a297.dscc.akamai.net
-0.0.0.0 adc3-launch.adcolony.com
-0.0.0.0 adeventtrackermonitoring.spotify.com
-0.0.0.0 adfox.yandex.ru
-0.0.0.0 adfstat.yandex.ru
-0.0.0.0 adm.hotjar.com
-0.0.0.0 ads-api.tiktok.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads-pres.channel4.com
-0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 ads.roku.com
-0.0.0.0 ads.samsungads.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 ads30.adcolony.com
-0.0.0.0 adservetx.media.net
-0.0.0.0 adservice.google.com
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 adtech.yahooinc.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 advertising.yahoo.com
-0.0.0.0 advertising.yandex.ru
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 afs.googlesyndication.com
-0.0.0.0 amarillo.logs.roku.com
-0.0.0.0 amarillo.sb.roku.com
-0.0.0.0 amoeba-plus.web.roku.com
-0.0.0.0 amoeba.web.roku.com
-0.0.0.0 ams3-ib.adnxs.com
-0.0.0.0 an.facebook.com
-0.0.0.0 analytics-sg.tiktok.com
-0.0.0.0 analytics.google.com
-0.0.0.0 analytics.kidoodle.tv
-0.0.0.0 analytics.pinterest.com
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.s3.amazonaws.com
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 api.luckyorange.com
-0.0.0.0 api.mouseflow.com
-0.0.0.0 app-measurement.com
-0.0.0.0 app.bugsnag.com
-0.0.0.0 app.getsentry.com
-0.0.0.0 appmetrica.yandex.ru
-0.0.0.0 assets.sr.roku.com
-0.0.0.0 az43064.vo.msecnd.net
-0.0.0.0 b-graph.facebook.com
-0.0.0.0 b45f12f3d1d8ff61fde258f94943ae3b02a43d94.cws.conviva.com
-0.0.0.0 bdapi-ads.realmemobile.com
-0.0.0.0 bidder-eu-central-1.prod.justpremium.com
-0.0.0.0 bif.sr.roku.com
-0.0.0.0 bloodhound.spotify.com
-0.0.0.0 boulder-collector-linux-v3.azurewebsites.net
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 bt-app.quantummetric.com
-0.0.0.0 business-api.tiktok.com
-0.0.0.0 c.servedbyivo.com
-0.0.0.0 c4.eme.lp.aws.redbeemedia.com
-0.0.0.0 c4ads.2cnt.net
-0.0.0.0 c5ads.ott.skymedia.co.uk
-0.0.0.0 cdn-test.mouseflow.com
-0.0.0.0 cdn.http.anno.channel4.com
-0.0.0.0 cdn.luckyorange.com
-0.0.0.0 cdn.ss.anno.channel4.com
-0.0.0.0 claritybt.freshmarketer.com
-0.0.0.0 click.googleanalytics.com
-0.0.0.0 cloud1.linksyssmartwifi.com
-0.0.0.0 cloudservices.roku.com
-0.0.0.0 commcloud.prod-bgbh-linksys-com.cc-ecdn.net.cdn.cloudflare.net
-0.0.0.0 cooper.logs.roku.com
-0.0.0.0 cr6.yovoads.com.net
-0.0.0.0 creativereview-wurl.kidoodle.tv
-0.0.0.0 crprt.livejasmin.com
-0.0.0.0 cs.luckyorange.net
-0.0.0.0 customer-feedbacks.web.roku.com
-0.0.0.0 cws-iad1.conviva.com
-0.0.0.0 d3ag4hukkh62yn.cloudfront.net
-0.0.0.0 data00.adlooxtracking.com
-0.0.0.0 db._dns-sd._udp.cust.communityfibre.co.uk
-0.0.0.0 digdug-g2.logs.roku.com
-0.0.0.0 digdug.logs.roku.com
-0.0.0.0 display.ravm.tv
-0.0.0.0 dogvgb9ujhybx.cloudfront.net
-0.0.0.0 dream.cf.lifemote.com
-0.0.0.0 dream.cf.lifemote.com.communityfibre.co.uk
-0.0.0.0 e13136.d.akamaiedge.net
-0.0.0.0 events.hotjar.io
-0.0.0.0 events.reddit.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 events3alt.adcolony.com
-0.0.0.0 extmaps-api.yandex.net
-0.0.0.0 f.tkassets.com
-0.0.0.0 fb540ae0bb1cc8a4c478dc2756955f66.safeframe.googlesyndication.com
-0.0.0.0 ff.video-ak.cdn.spotify.com
-0.0.0.0 freshmarketer.com
-0.0.0.0 fwtracks.freshmarketer.com
-0.0.0.0 gateway.instagram.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 genie.thn.lon.network.as201838.net.communityfibre.co.uk
-0.0.0.0 geo.yahoo.com
-0.0.0.0 ghb-unoadsrv-com.geodns.me
-0.0.0.0 giga.logs.roku.com
-0.0.0.0 googleleads.g.doubleclick.net
-0.0.0.0 googlesyndication.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 guardian-d.openx.net
-0.0.0.0 h.ophan.co.uk
-0.0.0.0 hb-api-fra02.omnitagjs.com
-0.0.0.0 hbopenbid-ams.pubmnet.com
-0.0.0.0 hbopenbid-lhrc.pubmnet.com
-0.0.0.0 heads-ak-spotify-com.akamaized.net
-0.0.0.0 heads-akp.spotify.com
-0.0.0.0 i.ads.roku.com
-0.0.0.0 identify.hotjar.com
-0.0.0.0 insights.hotjar.com
-0.0.0.0 instagram.c10r.instagram.com
-0.0.0.0 lb._dns-sd._udp.communityfibre.co.uk
-0.0.0.0 linksysmx4200.communityfibre.co.uk
-0.0.0.0 linksysmx4200.cust.communityfibre.co.uk
-0.0.0.0 log.byteoversea.com
-0.0.0.0 log.fc.yahoo.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 m.tkassets.com
-0.0.0.0 manifest.googlevideo.com
-0.0.0.0 media.net
-0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 merch-img.scdn.co
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 mouseflow.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 offerwall.yandex.net
-0.0.0.0 osb-v1.samsungqbe.com
-0.0.0.0 otn1.samsungcloudcdn.com
-0.0.0.0 p.ads.roku.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 petrolprices-advertising.s3.eu-west-2.amazonaws.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 prderrordumphsm.samsungcloudsolution.com
-0.0.0.0 prod.mobile.roku.com
-0.0.0.0 raps-perf.ravm.tv
-0.0.0.0 raps.ravm.tv
-0.0.0.0 ravm.tv
-0.0.0.0 realtime.luckyorange.com
-0.0.0.0 region1.app-measurement.com
-0.0.0.0 register.mg-0x3118.oui-0x00199d.com.net
-0.0.0.0 rxr.ravm.tv
-0.0.0.0 s.youtube.com
-0.0.0.0 samples.voice.cti.roku.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 scribe.logs.roku.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 settings.luckyorange.net
-0.0.0.0 source-static.samba.tv
-0.0.0.0 ssl-c4dotcom.2cnt.net
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 static.media.net
-0.0.0.0 suggestqueries.google.com
-0.0.0.0 surveys.hotjar.com
-0.0.0.0 t.servedbyivo.com
-0.0.0.0 tools.mouseflow.com
-0.0.0.0 toots-a.akamaihd.net
-0.0.0.0 traces.sr.roku.com
-0.0.0.0 track-eu.adformnet.akadns.net
-0.0.0.0 track.sr.roku.com
-0.0.0.0 trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
-0.0.0.0 trk-euwest.tidaltv.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 tvpndynamiclogopeu.samsungcloud.tv
-0.0.0.0 tyler.logs.roku.com
-0.0.0.0 udc.yahoo.com
-0.0.0.0 udcm.yahoo.com
-0.0.0.0 update1.linksys.com
-0.0.0.0 upload.luckyorange.net
-0.0.0.0 upu.samsungelectronics.com
-0.0.0.0 vod-static.plex.tv
-0.0.0.0 w1.luckyorange.com
-0.0.0.0 wd.adcolony.com
-0.0.0.0 webstats.channel4.com
-0.0.0.0 webview.unityads.unity3d.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 wpad.communityfibre.co.uk
-0.0.0.0 wpad.cust.communityfibre.co.uk
-0.0.0.0 www-alv.google-analytics.com
-0.0.0.0 www.belkin.com
-0.0.0.0 www.dream.cf.lifemote.com.communityfibre.co.uk
-0.0.0.0 www.tm.ak.prd.aadg.trafficmanager.net
-0.0.0.0 wwwimg.roku.com
-0.0.0.0 wzrkt.com
-0.0.0.0 xpu.samsungelectronics.com
-0.0.0.0 zee.cws.conviva.com
-0.0.0.0 2a7e9.v.fwmrm.net
-0.0.0.0 yt3.googleusercontent.com
-0.0.0.0 adserving.optoutadvertising.com
-0.0.0.0 cdn.optoutadvertising.com
-0.0.0.0 aet.spotify.com
-0.0.0.0 bloodhound-off-helios.spotify.com
-0.0.0.0 app-measurement.com
-0.0.0.0 secure.adnxs.com.net
-0.0.0.0 bloodhound-off-helios.spotify.com.net
-0.0.0.0 aet.spotify.com.net
-0.0.0.0 ade.googlesyndication.com.net
-0.0.0.0 o22381.ingest.sentry.io.net
-0.0.0.0 s.youtube.com.home
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 adservice.google.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 4735610.fls.doubleclick.net
-0.0.0.0 8114842.fls.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 iadcontent.apple.com
-0.0.0.0 iadsdk.apple.com
+a.servedbyivo.com
+a297.dscc.akamai.net
+adc3-launch.adcolony.com
+adeventtrackermonitoring.spotify.com
+adfox.yandex.ru
+adfstat.yandex.ru
+adm.hotjar.com
+ads-api.tiktok.com
+ads-api.twitter.com
+ads-pres.channel4.com
+ads-sg.tiktok.com
+ads.linkedin.com
+ads.pinterest.com
+ads.roku.com
+ads.samsungads.com
+ads.tiktok.com
+ads.yahoo.com
+ads.youtube.com
+ads30.adcolony.com
+adservetx.media.net
+adservice.google.com
+adtago.s3.amazonaws.com
+adtech.yahooinc.com
+advertising-api-eu.amazon.com
+advertising.yahoo.com
+advertising.yandex.ru
+advice-ads.s3.amazonaws.com
+afs.googlesyndication.com
+amarillo.logs.roku.com
+amarillo.sb.roku.com
+amoeba-plus.web.roku.com
+amoeba.web.roku.com
+ams3-ib.adnxs.com
+an.facebook.com
+analytics-sg.tiktok.com
+analytics.google.com
+analytics.kidoodle.tv
+analytics.pinterest.com
+analytics.query.yahoo.com
+analytics.s3.amazonaws.com
+analytics.tiktok.com
+analytics.yahoo.com
+analyticsengine.s3.amazonaws.com
+api.bugsnag.com
+api.luckyorange.com
+api.mouseflow.com
+app-measurement.com
+app.bugsnag.com
+app.getsentry.com
+appmetrica.yandex.ru
+assets.sr.roku.com
+az43064.vo.msecnd.net
+b-graph.facebook.com
+b45f12f3d1d8ff61fde258f94943ae3b02a43d94.cws.conviva.com
+bdapi-ads.realmemobile.com
+bidder-eu-central-1.prod.justpremium.com
+bif.sr.roku.com
+bloodhound.spotify.com
+boulder-collector-linux-v3.azurewebsites.net
+browser.sentry-cdn.com
+bt-app.quantummetric.com
+business-api.tiktok.com
+c.servedbyivo.com
+c4.eme.lp.aws.redbeemedia.com
+c4ads.2cnt.net
+c5ads.ott.skymedia.co.uk
+cdn-test.mouseflow.com
+cdn.http.anno.channel4.com
+cdn.luckyorange.com
+cdn.ss.anno.channel4.com
+claritybt.freshmarketer.com
+click.googleanalytics.com
+cloud1.linksyssmartwifi.com
+cloudservices.roku.com
+commcloud.prod-bgbh-linksys-com.cc-ecdn.net.cdn.cloudflare.net
+cooper.logs.roku.com
+cr6.yovoads.com.net
+creativereview-wurl.kidoodle.tv
+crprt.livejasmin.com
+cs.luckyorange.net
+customer-feedbacks.web.roku.com
+cws-iad1.conviva.com
+d3ag4hukkh62yn.cloudfront.net
+data00.adlooxtracking.com
+db._dns-sd._udp.cust.communityfibre.co.uk
+digdug-g2.logs.roku.com
+digdug.logs.roku.com
+display.ravm.tv
+dogvgb9ujhybx.cloudfront.net
+dream.cf.lifemote.com
+dream.cf.lifemote.com.communityfibre.co.uk
+e13136.d.akamaiedge.net
+events.hotjar.io
+events.reddit.com
+events.redditmedia.com
+events3alt.adcolony.com
+extmaps-api.yandex.net
+f.tkassets.com
+fb540ae0bb1cc8a4c478dc2756955f66.safeframe.googlesyndication.com
+ff.video-ak.cdn.spotify.com
+freshmarketer.com
+fwtracks.freshmarketer.com
+gateway.instagram.com
+gemini.yahoo.com
+genie.thn.lon.network.as201838.net.communityfibre.co.uk
+geo.yahoo.com
+ghb-unoadsrv-com.geodns.me
+giga.logs.roku.com
+googleleads.g.doubleclick.net
+googlesyndication.com
+graph.facebook.com
+guardian-d.openx.net
+h.ophan.co.uk
+hb-api-fra02.omnitagjs.com
+hbopenbid-ams.pubmnet.com
+hbopenbid-lhrc.pubmnet.com
+heads-ak-spotify-com.akamaized.net
+heads-akp.spotify.com
+i.ads.roku.com
+identify.hotjar.com
+insights.hotjar.com
+instagram.c10r.instagram.com
+lb._dns-sd._udp.communityfibre.co.uk
+linksysmx4200.communityfibre.co.uk
+linksysmx4200.cust.communityfibre.co.uk
+log.byteoversea.com
+log.fc.yahoo.com
+log.pinterest.com
+m.tkassets.com
+manifest.googlevideo.com
+media.net
+mediavisor.doubleclick.net
+merch-img.scdn.co
+metrics.icloud.com
+metrika.yandex.ru
+mouseflow.com
+notify.bugsnag.com
+offerwall.yandex.net
+osb-v1.samsungqbe.com
+otn1.samsungcloudcdn.com
+p.ads.roku.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+partnerads.ysm.yahoo.com
+petrolprices-advertising.s3.eu-west-2.amazonaws.com
+pixel.facebook.com
+prderrordumphsm.samsungcloudsolution.com
+prod.mobile.roku.com
+raps-perf.ravm.tv
+raps.ravm.tv
+ravm.tv
+realtime.luckyorange.com
+region1.app-measurement.com
+register.mg-0x3118.oui-0x00199d.com.net
+rxr.ravm.tv
+s.youtube.com
+samples.voice.cti.roku.com
+samsung-com.112.2o7.net
+scribe.logs.roku.com
+sessions.bugsnag.com
+settings.luckyorange.net
+source-static.samba.tv
+ssl-c4dotcom.2cnt.net
+static.ads-twitter.com
+static.media.net
+suggestqueries.google.com
+surveys.hotjar.com
+t.servedbyivo.com
+tools.mouseflow.com
+toots-a.akamaihd.net
+traces.sr.roku.com
+track-eu.adformnet.akadns.net
+track.sr.roku.com
+trk-euwes-adslogge-o8q3jfqbjp45-1145089197.eu-west-1.elb.amazonaws.com
+trk-euwest.tidaltv.com
+trk.pinterest.com
+tvpndynamiclogopeu.samsungcloud.tv
+tyler.logs.roku.com
+udc.yahoo.com
+udcm.yahoo.com
+update1.linksys.com
+upload.luckyorange.net
+upu.samsungelectronics.com
+vod-static.plex.tv
+w1.luckyorange.com
+wd.adcolony.com
+webstats.channel4.com
+webview.unityads.unity3d.com
+widgets.pinterest.com
+wpad.communityfibre.co.uk
+wpad.cust.communityfibre.co.uk
+www-alv.google-analytics.com
+www.belkin.com
+www.dream.cf.lifemote.com.communityfibre.co.uk
+www.tm.ak.prd.aadg.trafficmanager.net
+wwwimg.roku.com
+wzrkt.com
+xpu.samsungelectronics.com
+zee.cws.conviva.com
+2a7e9.v.fwmrm.net
+yt3.googleusercontent.com
+adserving.optoutadvertising.com
+cdn.optoutadvertising.com
+aet.spotify.com
+bloodhound-off-helios.spotify.com
+app-measurement.com
+secure.adnxs.com.net
+bloodhound-off-helios.spotify.com.net
+aet.spotify.com.net
+ade.googlesyndication.com.net
+o22381.ingest.sentry.io.net
+s.youtube.com.home
+www.googleadservices.com
+www.google-analytics.com
+www.googletagmanager.com
+www.googletagservices.com
+ad.doubleclick.net
+ade.googlesyndication.com
+adservice.google.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+ade.googlesyndication.com
+4735610.fls.doubleclick.net
+8114842.fls.doubleclick.net
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+cm.g.doubleclick.net
+bid.g.doubleclick.net
+iadcontent.apple.com
+iadsdk.apple.com
