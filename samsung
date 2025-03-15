@@ -1,132 +1,132 @@
-0.0.0.0 *sn-cu-aigs7.googlevideo.com
-0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-0.0.0.0 Coordinator-TA30-PROD-1091987395.eu-west-1.elb.amazonaws.com
-0.0.0.0 abtauthprd.samsungcloudsolution.com
-0.0.0.0 acr0.samsungcloudsolution.com
-0.0.0.0 ad.samsungadhub.com
-0.0.0.0 ads.samsungads.com
-0.0.0.0 amauthprd.samsungcloudsolution.com
-0.0.0.0 api-global.geo.netflix.com
-0.0.0.0 api-global.netflix.com
-0.0.0.0 api-hub.samsungyosemite.com
-0.0.0.0 appboot.netflix.com
-0.0.0.0 art-0.nflximg.net
-0.0.0.0 art-1.nflximg.net
-0.0.0.0 art-2.nflximg.net
-0.0.0.0 assets.nflxext.com
-0.0.0.0 auth.samsungosp.com
-0.0.0.0 az43064.vo.msecnd.net
-0.0.0.0 cdn-0.nflximg.com
-0.0.0.0 config.samsungads.com
-0.0.0.0 configprd.samsungcloudsolution.net
-0.0.0.0 crl.tivuon.tv
-0.0.0.0 customerevents.netflix.com
-0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
-0.0.0.0 d1p5ullyqmd01z.cloudfront.net
-0.0.0.0 d2jcsk9zvdkt48.cloudfront.net
-0.0.0.0 d2s336w63pl2vv.cloudfront.net
-0.0.0.0 d2tnx644ijgq6i.cloudfront.net
-0.0.0.0 d3mjsomixevyw7.cloudfront.net
-0.0.0.0 d38cmiae9b0e22.cloudfront.net
-0.0.0.0 d179kwmlpc4o47.cloudfront.ne
-0.0.0.0 d179kwmlpc4o47.cloudfront.net
-0.0.0.0 dev-multiscreen.samsung.com
-0.0.0.0 dpu.samsungelectronics.com
-0.0.0.0 e-cdn-images.deezer.com
-0.0.0.0 edition.cnn.com
-0.0.0.0 empdownprd.samsungcloudsolution.com
-0.0.0.0 fkp.samsungcloudsolution.com
-0.0.0.0 fkp.samsungcloudsolution.net
-0.0.0.0 game.internetat.tv
-0.0.0.0 gld.samsungosp.com
-0.0.0.0 go.microsoft.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 gpm.samsungqbe.com
-0.0.0.0 heads*-ak.spotify.com.edgesuite.net
-0.0.0.0 i-stream.pl
-0.0.0.0 ichnaea.netflix.com
-0.0.0.0 infolink.pavv.co.kr
-0.0.0.0 ipv4.connman.net
-0.0.0.0 ipv6.connman.net
-0.0.0.0 kpu.samsungelectronics.com
-0.0.0.0 lcprd2.samsungcloudsolution.net
-0.0.0.0 log-1.samsungacr.com
-0.0.0.0 log-2.samsungacr.com
-0.0.0.0 log-3.samsungacr.com
-0.0.0.0 log-config.samsungacr.com
-0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 log.internetat.tv
-0.0.0.0 musicid.samsungcloudsolution.com
-0.0.0.0 nflxso.net
-0.0.0.0 notice.samsungcloudsolution.com
-0.0.0.0 noticecdn.samsungcloudsolution.com
-0.0.0.0 noticefile.samsungcloudsolution.com
-0.0.0.0 nrdp.nccp.netflix.com
-0.0.0.0 ns11.whois.co.kr
-0.0.0.0 occ-0-1448-1168.1.nflxso.net
-0.0.0.0 occ-2-1448-1168.1.nflxso.net
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 oempprd.samsungcloudsolution.net
-0.0.0.0 openapi.samsung.com
-0.0.0.0 osb-apps.samsungqbe.com
-0.0.0.0 osb-eusvc.samsungqbe.com
-0.0.0.0 osb.samsungqbe.com
-0.0.0.0 otn.samsungcloudcdn.com
-0.0.0.0 otnprd8.samsungcloudsolution.net
-0.0.0.0 otnprd9.samsungcloudsolution.net
-0.0.0.0 otnprd10.samsungcloudsolution.net
-0.0.0.0 otnprd11.samsungcloudsolution.net
-0.0.0.0 pipeaota.com
-0.0.0.0 pool.ntp.org
-0.0.0.0 prderrordumphsm.samsungcloudsolution.com
-0.0.0.0 premium-videos.telly.com
-0.0.0.0 prod-kami.wuaki.tv
-0.0.0.0 prod-tvplus-pmd.akamai.cdn.wuaki.tv
-0.0.0.0 prov.samsungcloudsolution.com
-0.0.0.0 r2---sn-cu-aigs7.googlevideo.com
-0.0.0.0 r5---sn-cu-aigsl.googlevideo.com
-0.0.0.0 rd.samsungadhub.com
-0.0.0.0 samsungads.com
-0.0.0.0 samsungelectronics.com
-0.0.0.0 samsungotn.net
-0.0.0.0 sas.samsungcloudsolution.com
-0.0.0.0 sca.samsung.com
-0.0.0.0 secure.netflix.com
-0.0.0.0 secureclock2.playready.microsoft.com
-0.0.0.0 secureclock.playready.microsoft.com
-0.0.0.0 servicesupport2.hicloud.com
-0.0.0.0 servicesupport.hicloud.com
-0.0.0.0 sso.internetat.tv
-0.0.0.0 syncplusconfig.s3.amazonaws.com
-0.0.0.0 t.scdn.co
-0.0.0.0 tap-client-stats.s3-eu-west-1.amazonaws.com
-0.0.0.0 targeted-config-test.samsungacr.com
-0.0.0.0 test.samsungrm.net
-0.0.0.0 thinclient.chewie.internetat.tv
-0.0.0.0 time.samsungcloudsolution.com
-0.0.0.0 toots-a.akamaihd.net
-0.0.0.0 tracker2.wasabii.com.tw
-0.0.0.0 tracker2.wasabii.com.tw.home
-0.0.0.0 tv.scdn.co
-0.0.0.0 u.scdn.co
-0.0.0.0 uiboot.netflix.com
-0.0.0.0 upu.samsungelectronics.com
-0.0.0.0 us-api.samsungyosemite.com
-0.0.0.0 vd.emp.prd.s3.amazonaws.com
-0.0.0.0 vdterms.samsungcloudsolution.com
-0.0.0.0 vimeo.com
-0.0.0.0 wwp.greenwichmeantime.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.googleapis.com
-0.0.0.0 www.samsungotn.net
-0.0.0.0 www.samsungrm.net
-0.0.0.0 www.worldtime.com
-0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 xpu.samsungelectronics.com
-0.0.0.0 youtubei.youtube.com
-0.0.0.0 ypu.samsungelectronics.com
-0.0.0.0 ypu.samsungelectronics.comd
-0.0.0.0 yt3.ggpht.com
-0.0.0.0 zpu.samsungelectronics.com
+*sn-cu-aigs7.googlevideo.com
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+Coordinator-TA30-PROD-1091987395.eu-west-1.elb.amazonaws.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+ads.samsungads.com
+amauthprd.samsungcloudsolution.com
+api-global.geo.netflix.com
+api-global.netflix.com
+api-hub.samsungyosemite.com
+appboot.netflix.com
+art-0.nflximg.net
+art-1.nflximg.net
+art-2.nflximg.net
+assets.nflxext.com
+auth.samsungosp.com
+az43064.vo.msecnd.net
+cdn-0.nflximg.com
+config.samsungads.com
+configprd.samsungcloudsolution.net
+crl.tivuon.tv
+customerevents.netflix.com
+d1jwpcr0q4pcq0.cloudfront.net
+d1oxlq5h9kq8q5.cloudfront.net
+d1p5ullyqmd01z.cloudfront.net
+d2jcsk9zvdkt48.cloudfront.net
+d2s336w63pl2vv.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
+d38cmiae9b0e22.cloudfront.net
+d179kwmlpc4o47.cloudfront.ne
+d179kwmlpc4o47.cloudfront.net
+dev-multiscreen.samsung.com
+dpu.samsungelectronics.com
+e-cdn-images.deezer.com
+edition.cnn.com
+empdownprd.samsungcloudsolution.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
+game.internetat.tv
+gld.samsungosp.com
+go.microsoft.com
+googleads.g.doubleclick.net
+gpm.samsungqbe.com
+heads*-ak.spotify.com.edgesuite.net
+i-stream.pl
+ichnaea.netflix.com
+infolink.pavv.co.kr
+ipv4.connman.net
+ipv6.connman.net
+kpu.samsungelectronics.com
+lcprd2.samsungcloudsolution.net
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log-config.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log.internetat.tv
+musicid.samsungcloudsolution.com
+nflxso.net
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
+nrdp.nccp.netflix.com
+ns11.whois.co.kr
+occ-0-1448-1168.1.nflxso.net
+occ-2-1448-1168.1.nflxso.net
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
+openapi.samsung.com
+osb-apps.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb.samsungqbe.com
+otn.samsungcloudcdn.com
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+pipeaota.com
+pool.ntp.org
+prderrordumphsm.samsungcloudsolution.com
+premium-videos.telly.com
+prod-kami.wuaki.tv
+prod-tvplus-pmd.akamai.cdn.wuaki.tv
+prov.samsungcloudsolution.com
+r2---sn-cu-aigs7.googlevideo.com
+r5---sn-cu-aigsl.googlevideo.com
+rd.samsungadhub.com
+samsungads.com
+samsungelectronics.com
+samsungotn.net
+sas.samsungcloudsolution.com
+sca.samsung.com
+secure.netflix.com
+secureclock2.playready.microsoft.com
+secureclock.playready.microsoft.com
+servicesupport2.hicloud.com
+servicesupport.hicloud.com
+sso.internetat.tv
+syncplusconfig.s3.amazonaws.com
+t.scdn.co
+tap-client-stats.s3-eu-west-1.amazonaws.com
+targeted-config-test.samsungacr.com
+test.samsungrm.net
+thinclient.chewie.internetat.tv
+time.samsungcloudsolution.com
+toots-a.akamaihd.net
+tracker2.wasabii.com.tw
+tracker2.wasabii.com.tw.home
+tv.scdn.co
+u.scdn.co
+uiboot.netflix.com
+upu.samsungelectronics.com
+us-api.samsungyosemite.com
+vd.emp.prd.s3.amazonaws.com
+vdterms.samsungcloudsolution.com
+vimeo.com
+wwp.greenwichmeantime.com
+www.google-analytics.com
+www.googleapis.com
+www.samsungotn.net
+www.samsungrm.net
+www.worldtime.com
+www.youtube-nocookie.com
+xpu.samsungelectronics.com
+youtubei.youtube.com
+ypu.samsungelectronics.com
+ypu.samsungelectronics.comd
+yt3.ggpht.com
+zpu.samsungelectronics.com
