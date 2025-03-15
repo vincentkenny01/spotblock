@@ -1,140 +1,140 @@
-0.0.0.0 heads-ak*
-0.0.0.0 ak-spotify-com.akamaized.net
-0.0.0.0 c5ads.ott.skymedia.co.uk
-0.0.0.0 samsungads.com
-0.0.0.0 tracker.itzmx.com
-0.0.0.0 v.fwmrm.net
-0.0.0.0 heads*-ak.spotify.com.edgesuite.net
-0.0.0.0 live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
-0.0.0.0 scdn.co
-0.0.0.0 ^https?://+([^:/]+\.)?doubleclick\.net
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com/get_midroll_
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com/pagead/
-0.0.0.0 ^https?://+([^:/]+\.)?googleads\.g\.doubleclick\.net
-0.0.0.0 ^https?://+([^:/]+\.)?m\.youtube\.com/get_midroll_
-0.0.0.0 ^https?://+([^:/]+\.)?pagead2\.googlesyndication\.com
-0.0.0.0 ^https?://+([^:/]+\.)?static\.doubleclick\.net
-0.0.0.0 ^https?://+([^:/]+\.)?www\.google\.com/pagead/
-0.0.0.0 ^https?://+([^:/]+\.)?www\.youtube\.com/get_midroll_
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com/get_video_info\?
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com/api/stats/ads
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
-0.0.0.0 +([^:/]+\.)?doubleclick\.net
-0.0.0.0 +([^:/]+\.)?youtube\.com/get_midroll_
-0.0.0.0 +([^:/]+\.)?youtube\.com/pagead/
-0.0.0.0 +([^:/]+\.)?googleads\.g\.doubleclick\.net
-0.0.0.0 +([^:/]+\.)?m\.youtube\.com/get_midroll_
-0.0.0.0 +([^:/]+\.)?pagead2\.googlesyndication\.com
-0.0.0.0 +([^:/]+\.)?static\.doubleclick\.net
-0.0.0.0 +([^:/]+\.)?www\.google\.com/pagead/
-0.0.0.0 +([^:/]+\.)?www\.youtube\.com/get_midroll_
-0.0.0.0 +([^:/]+\.)?youtube\.com/get_video_info\?
-0.0.0.0 +([^:/]+\.)?youtube\.com/api/stats/ads
-0.0.0.0 +([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
-0.0.0.0 [a-z0-9]+[.]*(ads|captive|cloudservices|logs).roku.com
-0.0.0.0 (ads|logs|cloudservices).roku.com
-0.0.0.0 [a-z0-9]+[.]*(ads|cloudservices|logs).roku.co
-0.0.0.0 (^|\.)ads\.roku\.com
-0.0.0.0 (^|\.)logs\.roku\.com
-0.0.0.0 (^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)
-0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 *.map.fastly-insights.com
-0.0.0.0 *.doppiocdn.com
-0.0.0.0 (\.|^)d\.akamaiedge\.net$
-0.0.0.0 d.akamaiedge.net
-0.0.0.0 (\.|^)safeframe\.googlesyndication\.com$
-0.0.0.0 safeframe.googlesyndication.com
-0.0.0.0 (\.|^)criteo\.com$
-0.0.0.0 (\.|^)pubmetic\.com$
-0.0.0.0 (\.|^)teads\.tv$
-0.0.0.0 (\.|^)insight\.adsrvr\.org$
-0.0.0.0 (\.|^)softcat\.com$
-0.0.0.0 (\.|^)googleads\.g\.doubleclick\.net$
-0.0.0.0 insight.adsrvr.org
-0.0.0.0 (\.|^)smartadserver$
-0.0.0.0 smartadserver
-0.0.0.0 (\.|^)adsrvr\.org$
-0.0.0.0 adsrvr.org
-0.0.0.0 (\.|^)adsafeprotected$
-0.0.0.0 (\.|^)pubmnet$
-0.0.0.0 (\.|^)adform\.net$
-0.0.0.0 auction.unityads.unity3d.com
-0.0.0.0 (\.|^)googleadservices\.net$
-0.0.0.0 (\.|^)googleadservices\.com$
-0.0.0.0 criteo.net
-0.0.0.0 (\.|^)criteo\.net$
-0.0.0.0 (\.|^)s3-eu-west-1\.amazonaws\.com$
-0.0.0.0 (\.|^)tpc\.googlesyndication\.com$
-0.0.0.0 (\.|^)googleads\.g\.doublick\.net$
-0.0.0.0 (\.|^)googletagservices\.com$
-0.0.0.0 googletagservices.com
-0.0.0.0 2mdn.net
-0.0.0.0 (\.|^)2mdn\.net$
-0.0.0.0 (\.|^)ad\.adsrvr\.org$
-0.0.0.0 *.ad.adsrvr.org
-0.0.0.0 *.ad.adsrvr.org.*
-0.0.0.0 s3-eu-west-1.amazonaws.com/adops-assets/
-0.0.0.0 *.amazonaws.com/.*
-0.0.0.0 https://s3-eu-west-1.amazonaws.com/adops-assets/dap-fabrics/DAP_LABS_DBT_mar23/images/Labs-Logo-desktop.png
-0.0.0.0 cdn.flashtalking.com
-0.0.0.0 cdn.doubleverify.com
-0.0.0.0 servedby.flashtalking.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 google.com/ads/measurement
-0.0.0.0 s0.2mdn.net/ads/studio
-0.0.0.0 analytics.twitter.com
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 (\.|^)mb\.moatads\.com$
-0.0.0.0 (\.|^)ads\.pubmatic\.com$
-0.0.0.0 pix.eu.criteo.net
-0.0.0.0 (\.|^)pix\.eu\.criteo\.net$
-0.0.0.0 (\.|^)measurement-api\.criteo\.com$
-0.0.0.0 *.safeframe.googlesyndication.com
-0.0.0.0 ^.safeframe.googlesyndication.com/safeframe/^
-0.0.0.0 clickserve.dartsearch.net
-0.0.0.0 s0.2mdn.net
-0.0.0.0 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
-0.0.0.0 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
-0.0.0.0 ^(.+[_.-])?telemetry[_.-]
-0.0.0.0 ^adim(age|g)s?[0-9]*[_.-]
-0.0.0.0 ^adtrack(er|ing)?[0-9]*[_.-]
-0.0.0.0 ^advert(s|is(ing|ements?))?[0-9]*[_.-]
-0.0.0.0 ^aff(iliat(es?|ion))?[_.-]
-0.0.0.0 ^analytics?[_.-]
-0.0.0.0 ^banners?[_.-]
-0.0.0.0 ^beacons?[0-9]*[_.-]
-0.0.0.0 ^count(ers?)?[0-9]*[_.-]
-0.0.0.0 ^mads\.
-0.0.0.0 ^pixels?[-.]
-0.0.0.0 ^stat(s|istics)?[0-9]*[_.-]
-0.0.0.0 (\.|^)ft\.com$
-0.0.0.0 (\.|^)share\.reedsy\.com$
-0.0.0.0 (\.|^)eu-west-1\.awstrack\.me$
-0.0.0.0 (\.|^)facebook$
-0.0.0.0 (\.|^)trafficstars\.com$
-0.0.0.0 cr6.yovoads.com.net
-0.0.0.0 (\.|^)tsyndicate\.com$
-## 0.0.0.0 [a-z.].googleusercontent.com
-## 0.0.0.0 (\.|^)googleusercontent\.com$
-0.0.0.0 bloodhound-*-helios.spotify.com
-0.0.0.0 .+comscoreresearch.+
-0.0.0.0 (\.|^)doubleclick\.net$
-0.0.0.0 (\.|^)googleadservices\.com$
-0.0.0.0 (\.|^)googleads\.g\.doubleclick\.net$
-0.0.0.0 (\.|^)youtube\.com\/get_midroll_
-0.0.0.0 (\.|^)youtube\.com\/pagead\/
-0.0.0.0 (\.|^)youtube\.com\/api\/stats\/ads
-0.0.0.0 (\.|^)youtube\.com\/annotations_invideo
-0.0.0.0 (\.|^)youtube\.com\/get_video_info
-0.0.0.0 (\.|^)static\.doubleclick\.net$
-0.0.0.0 (\.|^)pagead2\.googlesyndication\.com$
-0.0.0.0 (\.|^)s0\.2mdn\.net$
-0.0.0.0 (\.|^)ads\.youtube\.com$
-0.0.0.0 (\.|^)spotify\.com$
-0.0.0.0 (\.|^)spclient\.spotify\.com$
-0.0.0.0 (\.|^)ads\.spotify\.com$
-0.0.0.0 (\.|^)track\.spotify\.com$
-0.0.0.0 (\.|^)gcn\.spotify\.com$
-0.0.0.0 .*\.spotify\.com\/.*(ad|ads).*
-0.0.0.0 .*\.spotify\.com\/ad\..*
-0.0.0.0 .*\.doubleclick\.net\/.*
+heads-ak*
+ak-spotify-com.akamaized.net
+c5ads.ott.skymedia.co.uk
+samsungads.com
+tracker.itzmx.com
+v.fwmrm.net
+heads*-ak.spotify.com.edgesuite.net
+live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
+scdn.co
+^https?://+([^:/]+\.)?doubleclick\.net
+^https?://+([^:/]+\.)?youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?youtube\.com/pagead/
+^https?://+([^:/]+\.)?googleads\.g\.doubleclick\.net
+^https?://+([^:/]+\.)?m\.youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?pagead2\.googlesyndication\.com
+^https?://+([^:/]+\.)?static\.doubleclick\.net
+^https?://+([^:/]+\.)?www\.google\.com/pagead/
+^https?://+([^:/]+\.)?www\.youtube\.com/get_midroll_
+^https?://+([^:/]+\.)?youtube\.com/get_video_info\?
+^https?://+([^:/]+\.)?youtube\.com/api/stats/ads
+^https?://+([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
++([^:/]+\.)?doubleclick\.net
++([^:/]+\.)?youtube\.com/get_midroll_
++([^:/]+\.)?youtube\.com/pagead/
++([^:/]+\.)?googleads\.g\.doubleclick\.net
++([^:/]+\.)?m\.youtube\.com/get_midroll_
++([^:/]+\.)?pagead2\.googlesyndication\.com
++([^:/]+\.)?static\.doubleclick\.net
++([^:/]+\.)?www\.google\.com/pagead/
++([^:/]+\.)?www\.youtube\.com/get_midroll_
++([^:/]+\.)?youtube\.com/get_video_info\?
++([^:/]+\.)?youtube\.com/api/stats/ads
++([^:/]+\.)?youtube\.com/annotations_invideo\?instream_ad=1
+[a-z0-9]+[.]*(ads|captive|cloudservices|logs).roku.com
+(ads|logs|cloudservices).roku.com
+[a-z0-9]+[.]*(ads|cloudservices|logs).roku.co
+(^|\.)ads\.roku\.com
+(^|\.)logs\.roku\.com
+(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)
+star-mini.c10r.facebook.com
+*.map.fastly-insights.com
+*.doppiocdn.com
+(\.|^)d\.akamaiedge\.net$
+d.akamaiedge.net
+(\.|^)safeframe\.googlesyndication\.com$
+safeframe.googlesyndication.com
+(\.|^)criteo\.com$
+(\.|^)pubmetic\.com$
+(\.|^)teads\.tv$
+(\.|^)insight\.adsrvr\.org$
+(\.|^)softcat\.com$
+(\.|^)googleads\.g\.doubleclick\.net$
+insight.adsrvr.org
+(\.|^)smartadserver$
+smartadserver
+(\.|^)adsrvr\.org$
+adsrvr.org
+(\.|^)adsafeprotected$
+(\.|^)pubmnet$
+(\.|^)adform\.net$
+auction.unityads.unity3d.com
+(\.|^)googleadservices\.net$
+(\.|^)googleadservices\.com$
+criteo.net
+(\.|^)criteo\.net$
+(\.|^)s3-eu-west-1\.amazonaws\.com$
+(\.|^)tpc\.googlesyndication\.com$
+(\.|^)googleads\.g\.doublick\.net$
+(\.|^)googletagservices\.com$
+googletagservices.com
+2mdn.net
+(\.|^)2mdn\.net$
+(\.|^)ad\.adsrvr\.org$
+*.ad.adsrvr.org
+*.ad.adsrvr.org.*
+s3-eu-west-1.amazonaws.com/adops-assets/
+*.amazonaws.com/.*
+https://s3-eu-west-1.amazonaws.com/adops-assets/dap-fabrics/DAP_LABS_DBT_mar23/images/Labs-Logo-desktop.png
+cdn.flashtalking.com
+cdn.doubleverify.com
+servedby.flashtalking.com
+tpc.googlesyndication.com
+google.com/ads/measurement
+s0.2mdn.net/ads/studio
+analytics.twitter.com
+adclick.g.doubleclick.net
+(\.|^)mb\.moatads\.com$
+(\.|^)ads\.pubmatic\.com$
+pix.eu.criteo.net
+(\.|^)pix\.eu\.criteo\.net$
+(\.|^)measurement-api\.criteo\.com$
+*.safeframe.googlesyndication.com
+^.safeframe.googlesyndication.com/safeframe/^
+clickserve.dartsearch.net
+s0.2mdn.net
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+(\.|^)ft\.com$
+(\.|^)share\.reedsy\.com$
+(\.|^)eu-west-1\.awstrack\.me$
+(\.|^)facebook$
+(\.|^)trafficstars\.com$
+cr6.yovoads.com.net
+(\.|^)tsyndicate\.com$
+.0 [a-z.].googleusercontent.com
+.0 (\.|^)googleusercontent\.com$
+bloodhound-*-helios.spotify.com
+.+comscoreresearch.+
+(\.|^)doubleclick\.net$
+(\.|^)googleadservices\.com$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)youtube\.com\/get_midroll_
+(\.|^)youtube\.com\/pagead\/
+(\.|^)youtube\.com\/api\/stats\/ads
+(\.|^)youtube\.com\/annotations_invideo
+(\.|^)youtube\.com\/get_video_info
+(\.|^)static\.doubleclick\.net$
+(\.|^)pagead2\.googlesyndication\.com$
+(\.|^)s0\.2mdn\.net$
+(\.|^)ads\.youtube\.com$
+(\.|^)spotify\.com$
+(\.|^)spclient\.spotify\.com$
+(\.|^)ads\.spotify\.com$
+(\.|^)track\.spotify\.com$
+(\.|^)gcn\.spotify\.com$
+.*\.spotify\.com\/.*(ad|ads).*
+.*\.spotify\.com\/ad\..*
+.*\.doubleclick\.net\/.*
