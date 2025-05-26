@@ -1,0 +1,12 @@
+live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
+*.doppiocdn.com
+(\.|^)d\.akamaiedge\.net$
+d.akamaiedge.net
+(\.|^)s3-eu-west-1\.amazonaws\.com$
+(\.|^)ft\.com$
+(\.|^)share\.reedsy\.com$
+.0 [a-z.].googleusercontent.com
+.0 (\.|^)googleusercontent\.com$
+(\.|^)spotify\.com$
+(\.|^)spclient\.spotify\.com$
+(\.|^)gcn\.spotify\.com$
