@@ -74,7 +74,6 @@ googletagservices.com
 *.ad.adsrvr.org
 *.ad.adsrvr.org.*
 s3-eu-west-1.amazonaws.com/adops-assets/
-*.amazonaws.com/.*
 https://s3-eu-west-1.amazonaws.com/adops-assets/dap-fabrics/DAP_LABS_DBT_mar23/images/Labs-Logo-desktop.png
 cdn.flashtalking.com
 cdn.doubleverify.com
