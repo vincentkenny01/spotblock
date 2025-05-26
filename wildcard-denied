@@ -125,3 +125,11 @@ bloodhound-*-helios.spotify.com
 .*\.spotify\.com\/.*(ad|ads).*
 .*\.spotify\.com\/ad\..*
 .*\.doubleclick\.net\/.*
+###not to be blocked
+#akamai.net
+#c4.eme.lp.aws.redbeemedia.com
+#cdn.http.anno.channel4.com
+#cdn.ss.anno.channel4.com
+#e7556.g.akamaiedge.net
+#live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
+
