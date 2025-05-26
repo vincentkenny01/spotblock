@@ -5,7 +5,6 @@ samsungads.com
 tracker.itzmx.com
 v.fwmrm.net
 heads*-ak.spotify.com.edgesuite.net
-live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
 scdn.co
 ^https?://+([^:/]+\.)?doubleclick\.net
 ^https?://+([^:/]+\.)?youtube\.com/get_midroll_
@@ -39,9 +38,6 @@ scdn.co
 (^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)
 star-mini.c10r.facebook.com
 *.map.fastly-insights.com
-*.doppiocdn.com
-(\.|^)d\.akamaiedge\.net$
-d.akamaiedge.net
 (\.|^)safeframe\.googlesyndication\.com$
 safeframe.googlesyndication.com
 (\.|^)criteo\.com$
@@ -63,7 +59,6 @@ auction.unityads.unity3d.com
 (\.|^)googleadservices\.com$
 criteo.net
 (\.|^)criteo\.net$
-(\.|^)s3-eu-west-1\.amazonaws\.com$
 (\.|^)tpc\.googlesyndication\.com$
 (\.|^)googleads\.g\.doublick\.net$
 (\.|^)googletagservices\.com$
@@ -106,15 +101,11 @@ s0.2mdn.net
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
-(\.|^)ft\.com$
-(\.|^)share\.reedsy\.com$
 (\.|^)eu-west-1\.awstrack\.me$
 (\.|^)facebook$
 (\.|^)trafficstars\.com$
 cr6.yovoads.com.net
 (\.|^)tsyndicate\.com$
-.0 [a-z.].googleusercontent.com
-.0 (\.|^)googleusercontent\.com$
 bloodhound-*-helios.spotify.com
 .+comscoreresearch.+
 (\.|^)doubleclick\.net$
@@ -129,11 +120,8 @@ bloodhound-*-helios.spotify.com
 (\.|^)pagead2\.googlesyndication\.com$
 (\.|^)s0\.2mdn\.net$
 (\.|^)ads\.youtube\.com$
-(\.|^)spotify\.com$
-(\.|^)spclient\.spotify\.com$
 (\.|^)ads\.spotify\.com$
 (\.|^)track\.spotify\.com$
-(\.|^)gcn\.spotify\.com$
 .*\.spotify\.com\/.*(ad|ads).*
 .*\.spotify\.com\/ad\..*
 .*\.doubleclick\.net\/.*
