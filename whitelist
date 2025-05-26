@@ -142,7 +142,7 @@ ak-jos-c4assets-com.akamaized.net
 cdn.http.anno.channel4.com
 api.telegram.org
 cdn.optimizely.com
-*.giphy.com
+giphy.com
 dogvgb9ujhybx.cloudfront.net
 tvpndynamiclogopeu.samsungcloud.tv
 onal spotify domains testing 
@@ -165,7 +165,6 @@ apresolve.spotify.com
 api.spotify.com
 www.spotify.com
 i.scdn.co
-(\.|^)giphy\.com$
 ocsp.digicert.com
 login.microsoftonline.com
 ccp-lh.googleusercontent.com
@@ -211,7 +210,7 @@ lcprd1.samsungcloudsolution.net
 appboot.netflix.com
 api-global.netflix.com
 apple.com
-(\.|^)samsungqbe\.com$
+samsungqbe.com$
 pcva5.manifest.auditude.com 
 pcor3.manifest.auditude.com 
 pcor4.manifest.auditude.com 
