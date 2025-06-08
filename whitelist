@@ -6,7 +6,6 @@ ae01.alicdn.com
 api.moengage.com
 api2.branch.io
 apiv2.moengage.com
-#app-measurement.com
 assets.adobedtm.com
 cdn.http.anno.channel4.com
 cdn.samsungcloudsolution.com
@@ -41,7 +40,7 @@ configprd.samsungcloudsolution.net
 cdn.cookielaw.org
 cdn-media.brightline.tv
 lcprd1.samsungcloudsolution.net
-samsungqbe.com$
+samsungqbe.com
 pcva5.manifest.auditude.com
 pcor3.manifest.auditude.com
 pcor4.manifest.auditude.com
@@ -59,7 +58,6 @@ osb-apps.samsungqbe.com
 cdn.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
 time.samsungcloudsolution.com
-
 am3pap001.storage.live.com
 android.clients.google.com
 api-partner.spotify.com
