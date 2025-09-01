@@ -127,3 +127,9 @@ bloodhound-*-helios.spotify.com
 .*\.doubleclick\.net\/.*
 cdn.ss.anno.channel4.com
 (^|\.)dscc\.akamai\.net$
+(\.|^)googlesyndication\.com$
+id.*.apple.com
+metrics.*
+analytics.*
+track.*
+ads.*
