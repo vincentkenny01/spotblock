@@ -133,3 +133,4 @@ metrics.*
 analytics.*
 track.*
 ads.*
+(^|\.)tracker
