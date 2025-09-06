@@ -134,3 +134,11 @@ analytics.*
 track.*
 ads.*
 (^|\.)tracker
+(^|\.)[a-z0-9.-]*ads[a-z0-9.-]*\.
+(^|\.)audio(-ads)?[a-z0-9.-]*\.spotify\.com$
+(^|\.)((doubleclick|2mdn|googlesyndication|pubads|pagead2)\.com)$
+(^|\.)2mdn\.net$
+(^|\.)metrics\.spotify\.com$
+(^|\.)analytics\.spotify\.com$
+(^|\.)crashdump\.spotify\.com$
+(^|\.)log\.spotify\.com$
