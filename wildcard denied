@@ -144,3 +144,6 @@ ads.*
 (^|\.)log\.spotify\.com$
 (^|\.)heads.*-.*\.spotify\.com\.edgesuite\.net$
 (^|\.)r\d+---sn-[a-z0-9]+\.googlevideo\.com$
+(^|\.)samsungads\.com$
+(^|\.)ads-pres\.channel4\.com$
+(^|\.)heads.*-ak\.spotify\.com\.edgesuite\.net$
