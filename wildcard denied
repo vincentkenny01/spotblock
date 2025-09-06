@@ -147,3 +147,10 @@ ads.*
 (^|\.)samsungads\.com$
 (^|\.)ads-pres\.channel4\.com$
 (^|\.)heads.*-ak\.spotify\.com\.edgesuite\.net$
+(^|\.)spotifyads\.com$
+(^|\.)doubleclick\.net$
+(^|\.)adsafeprotected\.com$
+(^|\.)adservice\.google\.com$
+(^|\.)ads\.youtube\.com$
+(^|\.)iadsdk\.apple\.com$
+(^|\.)a1520\.dscc\.akamai\.net$
