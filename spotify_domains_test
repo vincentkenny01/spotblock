@@ -1,0 +1,48 @@
+# Spotify Ads & Tracking
+audio-ads.spotify.com
+adeventtracker.spotify.com
+ads-fa.spotify.com
+analytics.spotify.com
+metrics.spotify.com
+crashdump.spotify.com
+log.spotify.com
+media-match.com
+content.bitsontherun.com
+core.insightexpressai.com
+bounceexchange.com
+bs.serving-sys.com
+b.scorecardresearch.com
+js.moatads.com
+omaze.com
+
+# Spotify CDN ad/audio endpoints
+audio2.spotify.com
+audio-fa.scdn.co
+audio2-fa.scdn.co
+audio4-fa.scdn.co
+heads-fa.scdn.co
+heads-ec.spotify.com
+
+# Google Ad Services
+adclick.g.doubleclick.net
+ads.g.doubleclick.net
+stats.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
+tpc.googlesyndication.com
+googlesyndication.com
+www.googleadservices.com
+partner.googleadservices.com
+www.googletagservices.com
+video-ad-stats.googlesyndication.com
+static.doubleclick.net
+s0.2mdn.net
+
+# Analytics
+google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+www.google-analytics.com
+udm.scorecardresearch.com
