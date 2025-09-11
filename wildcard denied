@@ -37,7 +37,6 @@ scdn.co
 (^|\.)logs\.roku\.com
 (^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)
 star-mini.c10r.facebook.com
-*.map.fastly-insights.com
 (\.|^)safeframe\.googlesyndication\.com$
 safeframe.googlesyndication.com
 (\.|^)criteo\.com$
@@ -66,8 +65,6 @@ googletagservices.com
 2mdn.net
 (\.|^)2mdn\.net$
 (\.|^)ad\.adsrvr\.org$
-*.ad.adsrvr.org
-*.ad.adsrvr.org.*
 s3-eu-west-1.amazonaws.com/adops-assets/
 https://s3-eu-west-1.amazonaws.com/adops-assets/dap-fabrics/DAP_LABS_DBT_mar23/images/Labs-Logo-desktop.png
 cdn.flashtalking.com
@@ -83,7 +80,6 @@ adclick.g.doubleclick.net
 pix.eu.criteo.net
 (\.|^)pix\.eu\.criteo\.net$
 (\.|^)measurement-api\.criteo\.com$
-*.safeframe.googlesyndication.com
 ^.safeframe.googlesyndication.com/safeframe/^
 clickserve.dartsearch.net
 s0.2mdn.net
@@ -169,4 +165,6 @@ cdn.ss.anno.channel4.com
 (^|\.)track\.
 (^|\.)analytics\.
 (^|\.)metrics\.
-
+(^|\.)map\.fastly-insights\.com$
+(^|\.)ad\.adsrvr\.org$
+(^|\.)safeframe\.googlesyndication\.com$
