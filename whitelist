@@ -264,3 +264,12 @@ tracker.zer0day.to
 tracker.filetracker.pl
 tracker.swateam.org.uk
 tracker.skyts.net
+*.spotify.com
+*.scdn.co
+*.akamaized.net
+apresolve.spotify.com
+spclient.wg.spotify.com
+open.spotify.com
+player.spotify.net
+scdn.spotify.com
+*.fastlylb.net
