@@ -10,3 +10,7 @@ d.akamaiedge.net
 (\.|^)spotify\.com$
 (\.|^)spclient\.spotify\.com$
 (\.|^)gcn\.spotify\.com$
+*.spotify.com
+*.scdn.co
+*.akamaized.net
+*.fastlylb.net
