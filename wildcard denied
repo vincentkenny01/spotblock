@@ -128,12 +128,8 @@ bloodhound-*-helios.spotify.com
 cdn.ss.anno.channel4.com
 (^|\.)dscc\.akamai\.net$
 (\.|^)googlesyndication\.com$
-metrics.*
-analytics.*
-track.*
-ads.*
-(^|\.)tracker
-(^|\.)[a-z0-9.-]*ads[a-z0-9.-]*\.
+(^|\.)tracker\.
+(^|\.)[a-z0-9.-]*ads[a-z0-9.-]+\.[a-z]{2,}$
 (^|\.)audio(-ads)?[a-z0-9.-]*\.spotify\.com$
 (^|\.)((doubleclick|2mdn|googlesyndication|pubads|pagead2)\.com)$
 (^|\.)2mdn\.net$
@@ -166,7 +162,11 @@ ads.*
 (^|\.)(adclick|pubads|securepubads)\.g\.doubleclick\.net$
 (^|\.)googlesyndication\.com$
 (^|\.)(googletagmanager|googletagservices)\.com$
-(^|\.)(adnxs|adsrvr|scorecardresearch|moatads)\.|
+(^|\.)(adnxs|adsrvr|scorecardresearch|moatads)\.
 (^|\.)cloudfront\.net$
 (^|\.)fastlylb\.net$
+(^|\.)ads\.
+(^|\.)track\.
+(^|\.)analytics\.
+(^|\.)metrics\.
 
