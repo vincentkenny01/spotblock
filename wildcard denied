@@ -62,7 +62,6 @@ auction\.unityads\.unity3d\.com$
 (^|\.)twitter\.com$
 (^|\.)analytics\.twitter\.com$
 (^|\.)safeframe\.googlesyndication\.com$
-(^|\.)cloudfront\.net$
 (^|\.)fastlylb\.net$
 (^|\.)cdn\.flashtalking\.com$
 (^|\.)servedby\.flashtalking\.com$
@@ -206,5 +205,4 @@ auction\.unityads\.unity3d\.com$
 (^|\.)googletagmanager\.com$
 (^|\.)googletagservices\.com$
 (^|\.)(adnxs|adsrvr|scorecardresearch|moatads)\.
-(^|\.)cloudfront\.net$
 (^|\.)fastlylb\.net$
