@@ -14,3 +14,4 @@ d.akamaiedge.net
 *.scdn.co
 *.akamaized.net
 *.fastlylb.net
+(\.|^)letsencrypt\.org$
