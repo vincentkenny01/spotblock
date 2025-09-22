@@ -1,3 +1,4 @@
+heads-*.spotify.com
 (^|\.)heads-.*-ak\.spotify\.com\.edgesuite\.net$
 (^|\.)ak-spotify-com\.akamaized\.net$
 (^|\.)bloodhound-.*-helios\.spotify\.com$
