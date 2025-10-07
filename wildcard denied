@@ -207,3 +207,6 @@ auction\.unityads\.unity3d\.com$
 (^|\.)googletagservices\.com$
 (^|\.)(adnxs|adsrvr|scorecardresearch|moatads)\.
 (^|\.)fastlylb\.net$
+.+comscoreresearch.+
+(\.|^)apple\.comscoreresearch\.com$
+(\.|^)e4805\.dsca\.akamaiedge\.net$
