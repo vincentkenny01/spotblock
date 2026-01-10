@@ -15,3 +15,4 @@ d.akamaiedge.net
 *.akamaized.net
 *.fastlylb.net
 (\.|^)letsencrypt\.org$
+(\.|^)datadome\.co$
