@@ -96,3 +96,8 @@ https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/mboutolleau/block-samsung-tv-telemetry/refs/heads/master/samsung_tv_telemetry_urls.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+https://raw.githubusercontent.com/InAUGral/pihole-blocklist-gametrackers/main/pihole-blocklist-gametrackers.txt
+https://blocklistproject.github.io/Lists/alt-version/smart-tv-nl.txt
+https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv.txt
+https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains.txt
