@@ -87,3 +87,12 @@ https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pih
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole.txt
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mixed.txt
 https://github.com/AlexRabbit/ADios/raw/master/PIHOLE/hosts
+https://raw.githubusercontent.com/AstroMash/ZeroDot1_CoinBlockerLists/main/hosts_browser
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/popupads.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/fake.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+https://raw.githubusercontent.com/mboutolleau/block-samsung-tv-telemetry/refs/heads/master/samsung_tv_telemetry_urls.txt
