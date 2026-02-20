@@ -16,3 +16,4 @@ d.akamaiedge.net
 *.fastlylb.net
 (\.|^)letsencrypt\.org$
 (\.|^)datadome\.co$
+||zpath.net^
