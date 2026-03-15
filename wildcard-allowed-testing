@@ -7,7 +7,6 @@ d.akamaiedge.net
 (\.|^)share\.reedsy\.com$
 .0 [a-z.].googleusercontent.com
 .0 (\.|^)googleusercontent\.com$
-(\.|^)spotify\.com$
 (\.|^)spclient\.spotify\.com$
 (\.|^)gcn\.spotify\.com$
 *.spotify.com
