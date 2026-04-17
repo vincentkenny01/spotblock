@@ -153,3 +153,8 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(ad[sv]?|ads-|audio-ad|pixel|metric|track|log|crash|event).*\.spotify\.com$
 ^(aet|ads|adclick|adeventtracker|pixel|metrics|metrics2|log|log2|crashdump|audio-ads|ads-fa|heads-ec|audio-ads-fa|audio-ads-sp)\.spotify\.com$
 ^aet\.spotify\.com$
+^(.+[-_])??ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)pagead2\.googlesyndication\.com$
+(\.|^)doubleclick\.net$
+(\.|^)googleadservices\.com$
