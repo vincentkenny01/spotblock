@@ -159,3 +159,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^)doubleclick\.net$
 (\.|^)googleadservices\.com$
 (\.|^)s\.youtube\.com$
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
