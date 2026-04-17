@@ -1,0 +1,3 @@
+(\.|^)gew4-dealer\.g2\.spotify\.com$
+(\.|^)image-cdn-fa\.spotifycdn\.com$
+^(.+[-_])??ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
