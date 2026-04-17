@@ -1,1 +1,10 @@
-
+(\.|^)d\.akamaiedge\.net$
+(\.|^)s3-eu-west-1\.amazonaws\.com$
+(\.|^)ft\.com$
+(\.|^)share\.reedsy\.com$
+.0 [a-z.].googleusercontent.com
+.0 (\.|^)googleusercontent\.com$
+(\.|^)spclient\.spotify\.com$
+(\.|^)gcn\.spotify\.com$
+(\.|^)letsencrypt\.org$
+(\.|^)datadome\.co$
