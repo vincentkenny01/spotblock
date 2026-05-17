@@ -90,10 +90,10 @@ https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mix
 https://github.com/AlexRabbit/ADios/raw/master/PIHOLE/hosts
 https://raw.githubusercontent.com/AstroMash/ZeroDot1_CoinBlockerLists/main/hosts_browser
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt
-https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/popupads.txt
-https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt
-https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/fake.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/mboutolleau/block-samsung-tv-telemetry/refs/heads/master/samsung_tv_telemetry_urls.txt
