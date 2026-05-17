@@ -2,7 +2,6 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
 https://raw.githubusercontent.com/vincentkenny01/spotblock/refs/heads/master/spotify_domains_test
 https://raw.githubusercontent.com/vincentkenny01/spotblock/master/ondemand
@@ -15,12 +14,12 @@ https://raw.githubusercontent.com/vincentkenny01/spotblock/refs/heads/master/bla
 https://raw.githubusercontent.com/vincentkenny01/spotblock/master/regex_block
 https://adaway.org/hosts.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-https://raw.githubusercontent.com/quidsup/notrack-blocklists/master/notrack-blocklist.txt
-https://raw.githubusercontent.com/quidsup/notrack-blocklists/master/notrack-malware.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -68,8 +67,8 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-https://raw.githubusercontent.com/curbengh/malware-filter/main/phishing-filter-hosts.txt
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+https://raw.githubusercontent.com/curbengh/malware-filter/main/malware-filter-hosts.txt
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
@@ -96,6 +95,7 @@ https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mix
 https://github.com/AlexRabbit/ADios/raw/master/PIHOLE/hosts
 https://raw.githubusercontent.com/AstroMash/ZeroDot1_CoinBlockerLists/main/hosts_browser
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/mboutolleau/block-samsung-tv-telemetry/refs/heads/master/samsung_tv_telemetry_urls.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
