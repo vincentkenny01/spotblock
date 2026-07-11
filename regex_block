@@ -1,0 +1,56 @@
+# --- Generic Pattern Matchers (These catch thousands of variants) ---
+(^|\.)(ad|ads|telemetry|track|tracker|analytics|pixel)[-_.]
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]$
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^pixels?[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
+
+# --- Roku Specific (Sophisticated Pattern Matching) ---
+(^|\.)[a-z0-9]+[.]*(ads|captive|cloudservices|logs)\.roku\.com$
+(^|\.)logs\.roku\.com$
+(^|\.)ads\.roku\.com$
+
+# --- Google/Doubleclick Infrastructure ---
+(\.|^)doubleclick\.net$
+(\.|^)googleadservices\.com$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)googlesyndication\.com$
+(\.|^)googletagmanager\.com$
+(\.|^)googletagservices\.com$
+(\.|^)adclick\.g\.doubleclick\.net$
+(\.|^)pubads\.g\.doubleclick\.net$
+(\.|^)securepubads\.g\.doubleclick\.net$
+
+# --- Spotify Telemetry (These avoid breaking the core player) ---
+(\.|^)metrics\.spotify\.com$
+(\.|^)analytics\.spotify\.com$
+(\.|^)crashdump\.spotify\.com$
+(\.|^)log\.spotify\.com$
+(\.|^)spotifyads\.com$
+(\.|^)track\.spotify\.com$
+
+# --- Samsung & Channel4 Telemetry ---
+(\.|^)samsungads\.com$
+(\.|^)ads-pres\.channel4\.com$
+(\.|^)cdn\.ss\.anno\.channel4\.com$
+
+# --- Social & Misc ---
+(\.|^)facebook\.com$
+(\.|^)fbcdn\.net$
+(\.|^)fbsbx\.com$
+(\.|^)twitter\.com$
+(\.|^)analytics\.twitter\.com$
+(\.|^)criteo\.com$
+(\.|^)pubmatic\.com$
+(\.|^)adsrvr\.org$
+(\.|^)adform\.net$
+(\.|^)teads\.tv$
+(\.|^)moatads\.com$
+(\.|^)admob\.com$
+(\.|^)amazon-adsystem\.com$
