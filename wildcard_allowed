@@ -1,7 +1,6 @@
 live1-elb-widevine-179407965.eu-west-1.elb.amazonaws.com
 *.doppiocdn.com
 d.akamaiedge.net
-*.spotify.com
 *.scdn.co
 *.akamaized.net
 *.fastlylb.net
