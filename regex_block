@@ -171,3 +171,15 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)amazon-adsystem\.com$
 (^|\.)doubleclick\.net$
 (^|\.)ad\.intl\.xiaomi\.com$
+(\.|^)facebook\.com$
+(\.|^)fbcdn\.net$
+(\.|^)fbsbx\.com$
+(\.|^)facebook\.net$
+(\.|^)fb\.com$
+(\.|^)fb\.me$
+(\.|^)messenger\.com$
+(\.|^)meta\.com$
+(\.|^)meta\.ai$
+(\.|^)oculus\.com$
+(\.|^)oculuscdn\.com$
+(\.|^)atdmt\.com$
