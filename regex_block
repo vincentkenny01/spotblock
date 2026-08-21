@@ -187,3 +187,5 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^)staticxx\.facebook\.com$
 (\.|^)static\.xx\.fbcdn\.net$
 (\.|^)adsrvr\.org$
+(\.|^)amillionads\.com$
+(\.|^)adsafeprotected\.com$
