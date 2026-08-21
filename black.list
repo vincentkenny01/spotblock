@@ -508,3 +508,5 @@ app-analytics-services.com
 region1.app-analytics-services.com
 api.segment.io
 mask.apple-dns.net
+doh.dns.apple.com
+oblivious-doh.dns.apple.com
