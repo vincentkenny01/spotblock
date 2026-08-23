@@ -194,3 +194,6 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^)samplicio\.us$
 (\.|^)branch\.io$
 (\.|^)we-stats\.com$
+(\.|^)flashtalking\.com$
+(\.|^)doubleverify\.com$
+(\.|^)iadsdk\.apple\.com$
