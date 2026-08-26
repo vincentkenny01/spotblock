@@ -33,7 +33,6 @@ game.internetat.tv
 gld.samsungosp.com
 googleads.g.doubleclick.net
 gpm.samsungqbe.com
-heads*-ak.spotify.com.edgesuite.net
 i-stream.pl
 ichnaea.netflix.com
 infolink.pavv.co.kr
@@ -109,12 +108,12 @@ amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
 az43064.vo.msecnd.net
 cdn.samsungcloudsolution.net
-connecttv.pelmorex.com # weather app tracking
+connecttv.pelmorex.com
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 cpu.samsungelectronics.com
 d179kwmlpc4o47.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
-d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
+d1oxlq5h9kq8q5.cloudfront.net
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d37ju0xanoz6gh.cloudfront.net
@@ -155,7 +154,7 @@ samsungcloudsolution.net
 samsungqbe.com
 sas.samsungcloudsolution.com
 sca.samsung.com
-sso.internetat.tv # account login
+sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
