@@ -27,8 +27,7 @@ vowifi.jio.com
 xpui.app.spotify.com
 heads-fa-tls13.spotifycdn.com					
 atc.spotify.map.fastly.net				
-www.spotify.com					
-gew1-spclient.spotify.com					
+www.spotify.com
 api.spotify.com					
 i.scdn.co					
 pickasso.spotifycdn.com
@@ -167,7 +166,6 @@ gew-dealer-ssl.spotify.com
 gew-dealer.spotify.com
 gew1-dealer-ssl.spotify.com
 gew1-dealer.g2.spotify.com
-gew1-spclient.spotify.com
 go.microsoft.com
 googleapis.l.google.com
 gpm.samsungqbe.com
