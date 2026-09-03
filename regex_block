@@ -1,3 +1,7 @@
+(\.|^)iadsdk\.apple\.com$
+(\.|^)iad\.apple\.com$
+(\.|^)iad\.itunes\.apple\.com$
+(\.|^)smoot\.apple\.com$
 (\.|^)addthis\.com$
 (\.|^)admob\.com$
 (\.|^)adsafeprotected\.com$
