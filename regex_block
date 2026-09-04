@@ -2,7 +2,6 @@
 ^audio[-.]?ads.*\.spotify\.com$
 (\.|^)mask-api\.fe\.apple-dns\.net$
 (\.|^)mask-t\.apple-dns\.net$
-(\.|^)mask-api\.icloud\.com$
 (\.|^)apple-relay\.cloudflare\.com$
 (\.|^)apple-relay\.fastly\.com$
 (\.|^)smoot\.apple\.com$
