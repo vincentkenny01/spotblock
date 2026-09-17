@@ -1,9 +1,11 @@
 ads-fa.spotify.com
-apple-relay.cloudflare.com
-apple-relay.fastly.com
+audio-ads.spotify.com
+audio-ads-fa.spotify.com
+audio-ads-sp.spotify.com
 iadsdk.apple.com
 news.iadsdk.apple.com
 api2.iadsdk.apple.com
+ads.apple.com
 ads-pres.channel4.com
 ads-sg.tiktok.com
 ads-twitter.com
@@ -11,6 +13,8 @@ ads.channel4.com
 ads.facebook.com
 ads.g.doubleclick.net
 ads.linkedin.com
+ads.itunes.apple.com
+ads.mzstatic.com
 ads.pinterest.com
 ads.roku.com
 ads.samsungads.com
@@ -18,11 +22,13 @@ ads.tiktok.com
 ads.yahoo.com
 ads.youtube.com
 ads30.adcolony.com
+adse.scdn.co
 adservetx.media.net
 adservice.google.co
 adservice.google.com
 adserving.optoutadvertising.com
 adsrvr.org
+adstudio-assets.scdn.co
 adsymptotic.com
 adtago.s3.amazonaws.com
 adtech.yahooinc.com
@@ -31,6 +37,7 @@ advertising.yahoo.com
 advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 aes.eu-central.3px.axp.amazon-adsystem.com
+aet.spotify.com
 afs.googlesyndication.com
 aggregate.com
 alphonso.tv
@@ -46,10 +53,12 @@ analytics.kidoodle.tv
 analytics.pinterest.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
+analytics.spotify.com
 analytics.tiktok.com
 analytics.yahoo.com
 analyticsengine.s3.amazonaws.com
 anycast.pixel.adsafeprotected.com
+api-adservices.apple.com
 api.branch.io
 api.bugsnag.com
 api.luckyorange.com
@@ -63,6 +72,7 @@ app.getsentry.com
 appmetrica.yandex.ru
 appsflyersdk.com
 array814.prod.do.dsp.mp.microsoft.com
+audio-ads.spotify.com
 audio-fa.scdn.co
 authenteq.com
 az43064.vo.msecnd.net
@@ -74,6 +84,8 @@ bid.g.doubleclick.net
 bidder-eu-central-1.prod.justpremium.com
 bif.sr.roku.com
 bkrtx.com
+bloodhound-off-helios.spotify.com
+bloodhound.spotify.com
 bluekai.com
 bluekai.de
 bluekaik.com
@@ -108,6 +120,8 @@ conversantmedia.com
 cooper.logs.roku.com
 cpms35.plex.tv
 cr6.yovoads.com
+crashdump.spotify.com
+crashlytics.com
 creativereview-wurl.kidoodle.tv
 crprt.livejasmin.com
 crwdcntrl.net
@@ -145,6 +159,7 @@ extmaps-api.yandex.net
 f.tkassets.com
 fastclick.net
 fb540ae0bb1cc8a4c478dc2756955f66.safeframe.googlesyndication.com
+ff.video-ak.cdn.spotify.com
 freshmarketer.com
 fullcontact.com
 fw\.adsafeprotected.com
@@ -155,7 +170,7 @@ geo.yahoo.com
 ghb-unoadsrv-com.geodns.me
 giga.logs.roku.com
 google-analytics.com
-googleads.g.doubleclick.net
+googleads.g.doubleclick.com
 googleleads.g.doubleclick.net
 googlesyndication.com
 graph.facebook.com
@@ -164,11 +179,14 @@ h.ophan.co.uk
 hb-api-fra02.omnitagjs.com
 hbopenbid-ams.pubmnet.com
 hbopenbid-lhrc.pubmnet.com
+heads-ak-spotify-com.akamaized.net
+heads-fa-tls13.spotifycdn.com
 i.ads.roku.com
 ib.adnxs.com
 ic.channel4.com
 identify.hotjar.com
 ie1-bid.adsrvr.org
+image-cdn-fa.spotifycdn.com
 imrworldwide.com
 insights.hotjar.com
 insuranceservices.com
@@ -186,6 +204,7 @@ liveramp.com
 log.byteoversea.com
 log.fc.yahoo.com
 log.pinterest.com
+log.spotify.com
 logs-6bb5a42d.eu.v2.we-stats.com
 lotame.com
 lotamemedia.com
@@ -197,6 +216,8 @@ media.net
 mediamath.com
 mediaplex.com
 mediavisor.doubleclick.net
+merch-img.scdn.co
+metrics.spotify.com
 metrika.yandex.ru
 ml314.com
 monitor.channel4.com
@@ -223,7 +244,9 @@ pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 partnerads.ysm.yahoo.com
+partners.wg.spotify.com
 petrolprices-advertising.s3.eu-west-2.amazonaws.com
+pickasso.spotifycdn.com
 pixel.adsafeprotected.com
 pixel.facebook.com
 pixel.quantserve.com
@@ -261,12 +284,14 @@ sharethisdsp.com
 signals.com
 smoot-api-safari-aeus2a.v.aaplimg.com
 source-static.samba.tv
+spotify-edge.megaphone.fm
+squadcdn.scdn.co.splitter-eip.akadns.net
 ssl-c4dotcom.2cnt.net
 ssl.google-analytics.com
 static.ads-twitter.com
 static.doubleclick.net
 static.media.net
-stats.g.doubleclick.com
+stats.g.doubleclick.net
 suggestqueries.google.com
 surveys.hotjar.com
 t.mmapigateway.com
@@ -274,6 +299,7 @@ t.servedbyivo.com
 tapad.com
 teams.events.data.microsoft.com
 thetradedesk.com
+tls13.spotifycdn.map.fastly.net
 tools.mouseflow\.com
 toots-a.akamaihd.net
 tpc.googlesyndication.com
@@ -300,7 +326,6 @@ valueclick.net
 vast.audiostack.ai
 verisk.com
 vfw\.amazon-adsystem.com
-video-akpcw\.spotifycdn.com
 vod-static.plex.tv
 w1.luckyorange.com
 wbtf2e.cdn-settings.appsflyersdk.com
