@@ -3,3 +3,4 @@
 (\.|^)3gppnetwork\.org$
 (\.|^)trading212\.com$
 ^(.+\.)?ampproject\.org$
+(\.|^)stun[0-9]?\.l\.google\.com$
