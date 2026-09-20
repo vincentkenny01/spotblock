@@ -180,7 +180,6 @@
 ^(.+[-_.])??telemetry[-.]
 ^(.+[-_])??ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+\.)?amp\..+\.com$
-^(.+\.)?ampproject\.org$
 ^(ad[sv]?|ads-|audio-ad|pixel|metric|track|log|crash|event).*\.spotify\.com$
 ^(aet|ads|adclick|adeventtracker|pixel|metrics|metrics2|log|log2|crashdump|audio-ads|ads-fa|heads-ec|audio-ads-fa|audio-ads-sp)\.spotify\.com$
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
