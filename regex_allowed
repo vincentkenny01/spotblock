@@ -4,4 +4,4 @@
 (\.|^)trading212\.com$
 ^(.+\.)?ampproject\.org$
 (\.|^)stun[0-9]?\.l\.google\.com$
-(\.|^)cl3\.apple\.com$
+(\.|^)cl[0-9]\.apple\.com$
