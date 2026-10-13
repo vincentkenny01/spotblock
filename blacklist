@@ -1,3 +1,12 @@
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/relay/relay_adblock.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/relay/relay_privacy.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/relay/relay_social.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/relay/relay_gambling.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 https://raw.githubusercontent.com/vincentkenny01/spotblock/refs/heads/master/spotify_domains_test
 https://raw.githubusercontent.com/vincentkenny01/spotblock/master/ondemand
 https://raw.githubusercontent.com/vincentkenny01/spotblock/master/samsung
@@ -69,7 +78,6 @@ https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/everything-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
@@ -84,7 +92,6 @@ https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pih
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole.txt
 https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/pi-hole-mixed.txt
 https://raw.githubusercontent.com/AlexRabbit/ADios/master/hosts
-https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/mboutolleau/block-samsung-tv-telemetry/refs/heads/master/samsung_tv_telemetry_urls.txt
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
