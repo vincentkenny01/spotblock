@@ -210,3 +210,9 @@ auction\.unityads\.unity3d\.com$
 double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$
 google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\.[a-z]{2,7}$
+(^|\.)ads?\.spotify\.com$
+(^|\.)adeventtracker\.spotify\.com$
+(^|\.)audio-ads\.spotify\.com$
+(^|\.)spclient\.wg\.spotify\.com$
+(?i)(ad_status|ad-refresh|audioads)
+*.video-ak.cdn.spotify.com
