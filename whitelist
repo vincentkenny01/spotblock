@@ -16,12 +16,9 @@ cdn.ampproject.org
 osb-v2.samsungqbe.com
 d179kwmlpc4o47.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
-d1oxlq5h9kq8q5.cloudfront.net
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 gpm.samsungqbe.com
-lcprd1.samsungcloudsolution.net
-cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
 samsungotn.net
 auth.samsungosp.com
@@ -35,9 +32,7 @@ gld.push.samsungosp.com
 tvpnlinupepgpus.samsungcloud.tv
 tvpnlogopus.samsungcloud.tv
 fc.samsungcloud.tv
-gpm.samsungqbe.com
 osb-ussvc.samsungqbe.com
-tvpnlinupepgpeu.samsungcloud.tv
 tvpndynamiclogopeu.samsungcloud.tv
 audio-cf.spotifycdn.com
 spotify-edge.megaphone.fm
@@ -181,13 +176,11 @@ ccp-lh.googleusercontent.com
 mail-attachment.googleusercontent.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungotn.net
 www.samsungotn.net
 samsungqbe.com
 samsungrm.net
 acr0.samsungcloudsolution.com
 cdn.samsungcloudsolution.com
-cdn.samsungcloudsolution.net
 configprd.samsungcloudsolution.net
 empdownprd.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
@@ -208,7 +201,6 @@ osb-v1-eusvc.samsungqbe.com
 osb-v1.samsungqbe.com
 osb.samsungqbe.com
 otn.samsungcloudcdn.com
-tvpndynamiclogopeu.samsungcloud.tv
 tvpnlinupepgpeu.samsungcloud.tv
 upu.samsungelectronics.com
 xpu.samsungelectronics.com
